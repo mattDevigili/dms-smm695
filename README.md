@@ -11,7 +11,7 @@ the relational model to more flexible systems, the journey of databases is in
 constant evolution. 
 
 ## Instructor
-**Name**: Matteo Devigili, PhD student
+**Name**: Matteo Devigili, Ph.D. student
 
 **Contacts**: matteo.devigili.2@city.ac.uk
 
