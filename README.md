@@ -79,8 +79,8 @@ progress throughout the module, the topics included could suffer from some **min
 changes**.
 
 Each _**Monday** at 8:00 AM London time_, students will be provided with a
-video-recording of the lecture (around 60 minutes long). Also, at the course
-[GitHub repo](https://github.com/mattDevigili/dms-smm695), lecture slides, code scripts, data, and homework will be
+video-recording of the lecture (around 60 minutes long). Also, at the 
+[course GitHub repo](https://github.com/mattDevigili/dms-smm695), lecture slides, code scripts, data, and homework will be
 uploaded.
 
 Each _**Thursday** from 11:00 to 12:30 AM London time_, an interactive Zoom webinar
