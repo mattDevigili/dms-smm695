@@ -15,9 +15,9 @@ constant evolution.
 
 **Contacts**: matteo.devigili.2@city.ac.uk
 
-**Webinar**: Thursday --- 11:00 - 12:30 (via Zoom)
+**Webinar**: Thursday --- 10:30 - 12:00 (via Zoom)
 
-**Office hour**: Thursday --- 12:30 - 13:30 (via MS Teams)
+**Office hour**: Thursday --- 12:00 - 13:00 (via MS Teams)
 
 ## Module Overview
 This module focuses on storing, querying, and manipulating data. In
@@ -83,7 +83,7 @@ video-recording of the lecture (around 60 minutes long). Also, at the
 [course GitHub repo](https://github.com/mattDevigili/dms-smm695), lecture slides, code scripts, data, and homework will be
 uploaded.
 
-Each _**Thursday** from 11:00 to 12:30 AM London time_, an interactive Zoom webinar
+Each _**Thursday** from 10:30 to 12:00 AM London time_, an interactive Zoom webinar
 will be held. Hence, students have almost 3 days to go through the
 video-recording and the uploaded materials. In the first part of the webinar, I
 will answer students' questions concerning the topics covered. **Note**:
@@ -151,4 +151,4 @@ easiest way to do that is to install [Anaconda](https://www.anaconda.com/product
 
 ## Version history
 * Created: Wed May 13 15:10:14 BST 2020
-* Last Changed:
+* Last Changed: Thu May 14 16:55:34 BST 2020
