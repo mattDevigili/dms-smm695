@@ -143,12 +143,12 @@ During the course, students will be guided to install:
 * [psql](https://www.postgresql.org/docs/12/app-psql.html) and [pgAdmin4](https://www.pgadmin.org) to explore PostgreSQL;
 * The [mongo shell](https://www.mongodb.com/download-center/enterprise) and [MongoDB Compass](https://www.mongodb.com/products/compass) to explore MongoDB.
 
-We will also interact with [MongoDB Atlas](https://www.mongodb.com/cloud/atlas),
+We will also interact with [Amazon RDS](https://aws.amazon.com/rds/) and [MongoDB Atlas](https://www.mongodb.com/cloud/atlas),
 so please be sure to have a stable internet connection. 
 
-To follow the lecture in _week 6_, you need to run Python 3.7. The
+To follow the lecture in _week 6_ and _webinars_, you need to run Python 3.7. The
 easiest way to do that is to install [Anaconda](https://www.anaconda.com/products/individual).
 
 ## Version history
 * Created: Wed May 13 15:10:14 BST 2020
-* Last Changed: Thu May 14 16:55:34 BST 2020
+* Last Changed: Thu May 21 09:42:30 BST 2020
