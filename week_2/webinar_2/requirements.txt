@@ -1,0 +1,4 @@
+numpy
+pandas
+jupyter
+#psycopg2-binary
