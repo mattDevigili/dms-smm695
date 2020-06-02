@@ -10,7 +10,7 @@ Here you can find the structure for the third webinar.
 |                 | - FDs and Anomalies                                                                       |
 |                 | - Decomposition                                                                           |
 |                 | - Indexes and Views                                                                       |
-|                 | [AWS RDS](https://aws.amazon.com/rds/)                                                    |
+|                 | [Amazon RDS](https://aws.amazon.com/rds/)                                                    |
 |                 | Homework solutions                                                                        |
 
 Follow the [instructions](https://aws.amazon.com/getting-started/tutorials/create-connect-postgresql-db/) to "create and connect to a PostgreSQL" database instance using 
