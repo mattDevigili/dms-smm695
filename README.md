@@ -141,7 +141,7 @@ To recap:
 ## Software requirements
 During the course, students will be guided to install:
 * [psql](https://www.postgresql.org/docs/12/app-psql.html) and [pgAdmin4](https://www.pgadmin.org) to explore PostgreSQL;
-* The [mongo shell](https://www.mongodb.com/download-center/enterprise) and [MongoDB Compass](https://www.mongodb.com/products/compass) to explore MongoDB.
+* The [mongo shell](https://www.mongodb.com/download-center/community) and [MongoDB Compass](https://www.mongodb.com/products/compass) to explore MongoDB.
 
 We will also interact with [Amazon RDS](https://aws.amazon.com/rds/) and [MongoDB Atlas](https://www.mongodb.com/cloud/atlas),
 so please be sure to have a stable internet connection. 
