@@ -18,9 +18,7 @@ installed):
 1. Install [Homebrew](https://brew.sh):
 
 ```python
-
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-
 ```
 
 2. Run:
