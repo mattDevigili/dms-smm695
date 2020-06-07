@@ -35,7 +35,7 @@ For this course, you do not have to buy any book, but you need to go through
 the following:
 
 * Lecture slides (to be uploaded onto Github weekly);
-* SQL/TXT/JS/JSON/Python scripts (to be uploaded onto Github weekly).
+* SQL/JS/Python scripts (to be uploaded onto Github weekly).
 
 Furthermore, I will provide you with some _not mandatory and not rated homework_
 to test your understanding of the lecture. 
