@@ -1,7 +1,7 @@
 **Week Two**
 
-_Homeworks are not mandatory, and not marked. You can
-use them to test your understanding of the lecture_
+_This homework is not mandatory, and not marked. You can use it to test your 
+understanding of the lecture_
 
 1. Create a schema named homework 2 
 2. Create a table with the following characteristics:

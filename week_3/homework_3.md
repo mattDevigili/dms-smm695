@@ -1,6 +1,6 @@
 **Week Three**
 
-_Homeworks are not mandatory, and not marked. You can use them to test your 
+_This homework is not mandatory, and not marked. You can use it to test your 
 understanding of the lecture_
 
 Pagila DB

@@ -1,7 +1,7 @@
 **Week One**
 
-_Homeworks are not mandatory, and not marked. You can
-use them to test your understanding of the lecture_
+_This homework is not mandatory, and not marked. You can use it to test your 
+understanding of the lecture_
 
 1. Create a new Database named smm695
 2. Create a new Schema named homework1
