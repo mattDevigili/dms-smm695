@@ -13,7 +13,7 @@ understanding of the lecture_
 | Temple of the Dog  | 1990  | [Chris Cornell, Jeff Ament, Matt Cameron, Stone Gossard, Mike McCready, Eddie Vedder] | 1992    |
 | The White Stripes  | 1997  | [Jack White, Meg White]                                                               | 2011    |
 | The Three Tenors   | 1990  | [Plácido Domingo, José Carreras, Luciano Pavarotti]                                   | 2007    |
-| LSD                | 2018  | [Sia Furler, Timothy McKenzie, Wesley Pentz                                           |         |
+| LSD                | 2018  | [Sia Furler, Timothy McKenzie, Wesley Pentz]                                           |         |
 
 3. Add a new field _albums_ with the following values:
 
