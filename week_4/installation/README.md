@@ -73,7 +73,7 @@ download the **MSI** file:
 
 3. Click **Next**
 
-4. Then, accept _'terms in the Licence Agreement'_:
+4. Then, accept _'terms in the License Agreement'_:
 <img src="images/_2.png" width = "80%">
 
 5. Choose the **complete** set-up type:
