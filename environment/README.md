@@ -28,14 +28,14 @@ This is a list of python libraries you need to install:
 | *4 (11-06)* | pymongo        |
 |             | requests       |
 |             | beautifulsoup4 |
-| *6 (25-06)* | pyspark [^1]        |
+| *6 (25-06)* | pyspark <a href="#note1" id="note1ref"><sup>1</sup></a>        |
 |             | pandas         |
 
 ### Install libraries
 
 The _requirements.txt_ contains Python libraries to install.
 
-If you are a Pure-Python [^2] user do:
+If you are a Pure-Python <a id="note2" href="#note2ref"><sup>2</sup></a> user do:
 
 ```{python}
 pip install -r requirements.txt
@@ -56,6 +56,9 @@ conda install --file requirements.txt
 
 To follow week 6, you need to run Java 8.
 
-[^1]: Pyspark requires Java 8.
-[^2]: For the sake of simplicity, Pure-Python users need to install `psycopg2-binary` and not `psycopg2`.
+_Notes_:
+
+<a id="note1" href="#note1ref"><sup>1</sup></a> Pyspark requires Java 8.
+
+<a id="note2" href="#note2ref"><sup>2</sup></a> For the sake of simplicity, Pure-Python users need to install `psycopg2-binary` and not `psycopg2`.
 
