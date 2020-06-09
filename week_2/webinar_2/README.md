@@ -45,10 +45,5 @@ If you are a Conda user do:
 ```{python}
 conda install --file requirements.txt
 ```
-Psycopg2 is not available via the official conda channel, you can install it
-as follows:
 
-```{python}
-conda install -c anaconda psycopg2
-```
 
