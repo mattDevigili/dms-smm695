@@ -22,7 +22,7 @@ No preparation is required to attend this webinar.
 If you are a Pure-Python user do:
 
 ```{python}
-python -m venv create my_env
+python -m venv my_env
 ```
 Check [venv](https://docs.python.org/3/library/venv.html) for further reference. 
 
