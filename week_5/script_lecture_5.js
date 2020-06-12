@@ -410,8 +410,8 @@ db.artists.aggregate(
 
 // 3.5 Output and Export
 
-// json export
+// .json export
 mongoexport --host "***your***primary***cluster.mongodb.net:27017" --db tate --collection artistStats --out Desktop/artists.json --authenticationDatabase admin --ssl  --username ***your-username***
 
-// csv export
+// .csv export
 mongoexport --host "***your***primary***cluster.mongodb.net:27017" --db tate --collection artistStats --type csv --fields countMovements,freq,avgWorks,minWorks,maxWorks,std,avgAge --out Desktop/artists.csv --authenticationDatabase admin --ssl  --username ***your-username***
