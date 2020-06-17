@@ -8,7 +8,7 @@ Here you can find the structure for the fifth webinar.
 |                 | [PyMongo](https://pymongo.readthedocs.io/en/stable/) |
 |                 | - Loading                                            |
 |                 | - Cleaning                                           |
-|                 | [Mongo Shell](https://docs.mongodb.com/manual/mongo/)                                      |
+|                 | [Mongo Shell](https://docs.mongodb.com/manual/mongo/)|
 |                 | - Cursor Methods                                     |
 |                 | - Cursor-like stages                                 |
 |                 | - Aggregation operators                              |
