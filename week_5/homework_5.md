@@ -90,8 +90,7 @@ This is the expected output:
 
 ## Task Three
 
-Let's turn to `tate.artists`. You are required to design an aggregation composed
-by three stages, doing the following:
+Let's turn to `tate.artists`. You are required to design an aggregation, doing the following:
 
 * select all documents for which the value of `gender` is equal to _"Female"_
 * group observations on the basis of movement names (to do that you should
