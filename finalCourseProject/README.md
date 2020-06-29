@@ -14,6 +14,10 @@ There, you can find a detailed description of data and the following files:
 If you want to have further info on data structure and content check the 
 [Tweet Data Dictionary](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object).
 
+**Note**: 
+* You can ignore _locations.csv_ file;
+* I strongly encourage you guys to work with _TweetsNBA.json_ for both PostgreSQL and MongoDB.
+
 ## Task
 
 Your task is to prepare data to be analyzed later by a senior data
