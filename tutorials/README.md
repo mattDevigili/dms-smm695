@@ -1,4 +1,5 @@
-Tutorials
+# Tutorials
+
 In this folder, students can find some additional tutorials.
 
 | **Folder** | **Scope** | **DBMS** |
