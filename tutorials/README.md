@@ -1,4 +1,4 @@
-# Tutorials
+# Tutorials --- SMM695
 
 In this folder, students can find some additional tutorials.
 
