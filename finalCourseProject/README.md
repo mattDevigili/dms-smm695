@@ -16,6 +16,9 @@ If you want to have further info on data structure and content check the
 
 **Note**: 
 * You can ignore _locations.csv_ file;
+* At Microsoft Teams (Assigments->Files), you can find:
+  * psql_cleaned.json : cleaned version of _TweetsNBA.json_ to load into PostgreSQL
+  * mongo_cleaned.json : cleaned version of _TweetsNBA.json_ to load into MongoDB
 
 ## Task
 
@@ -54,7 +57,7 @@ may want to look at the following references:
 By July 17 (8:00 PM, London time), groups are required to upload:
 
 * SQL/JS/Python scripts;
-* Supporting documentation (accepted format: .md, .tex) containing:
+* Supporting documentation (accepted format: .md, .docx, or .pdf generated via LaTeX) containing:
   * a detailed justification of your design choices;
   * a clear and concise description of the insights coming from descriptive
       statistics obtained;
