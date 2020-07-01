@@ -16,7 +16,7 @@ If you want to have further info on data structure and content check the
 
 **Note**: 
 * You can ignore _locations.csv_ file;
-* At Microsoft Teams (Assigments->Files), you can find:
+* At Microsoft Teams (Assignments->Files), you can find:
   * psql_cleaned.json : cleaned version of _TweetsNBA.json_ to load into PostgreSQL
   * mongo_cleaned.json : cleaned version of _TweetsNBA.json_ to load into MongoDB
 
