@@ -15,9 +15,9 @@ constant evolution.
 
 **Contacts**: matteo.devigili.2@city.ac.uk
 
-**Webinar**: Thursday --- 10:30 - 12:00 (via Zoom)
+**Webinar**: Monday --- 09:30 - 11:30 (via Zoom)
 
-**Office hour**: Thursday --- 12:00 - 13:00 (via MS Teams)
+**Office hour**: Monday --- 12:00 - 13:00 (via MS Teams)
 
 ## Module Overview
 This module focuses on storing, querying, and manipulating data. In
@@ -42,7 +42,7 @@ to test your understanding of the lecture.
 
 The following references concern additional material you may be interested:
 * PostgreSQL:
-  * [PostgreSQL Documentation](https://www.postgresql.org/docs/12/index.html)
+  * [PostgreSQL Documentation](https://www.postgresql.org/docs/13/index.html)
   * [PostgreSQL: Up and Running](http://shop.oreilly.com/product/0636920052715.do)
 * MongoDB:
   * [MongoDB Manual](https://docs.mongodb.com/manual/)
@@ -59,37 +59,46 @@ At the end of the module, students should be able to:
 * interact with and manipulate data in both PostgreSQL and MongoDB
 * design and execute scripts providing useful insights on data
 
-In terms of assessment, students are required to deliver a group-level, final
-course project (so, _no final examination or individual assignments_). The
-project will be launched in week 5.
+In terms of assessment, students are required to deliver two group-level
+coursework projects (so, _no final examination or individual assignments_).
+In particular, your final mark will be based on a `mid-term project` (MP) and 
+a `final course project` (FP). In so doing, the `final mark` (FM) will be:
 
-The **final course project** submissions will be evaluated on a rolling-based
-window and are due by July 17 (8:00 PM London Time).  Students will be required
-to deal with a real-world database, thus implementing what learned during this
-module.
+> FM = 0.25 x MP + 0.75 x FP
 
-The project will be evaluated along with the following criteria: i) appropriate use
+The **mid-term project** will be launched in week 3, and submissions will be 
+evaluated on a rolling-based window and are due by June 18 (8:00 PM London
+Time). Students will be required to deal with a real-world database leveraging 
+SQL. 
+
+The **final course project** will be launched in week 5, and submissions will
+be evaluated on a rolling-based window and are due by July 16 (8:00 PM London
+Time). Students will be required to deal with real-world data from scratch, thus
+implementing what learned during this module.
+
+Both projects will be evaluated along with the following criteria: i) appropriate use
 of notions and frameworks discussed in class; ii) effectiveness of the proposed
-answer or solution; iii) organization and clarity of submitted materials. All
-criteria carry-out equal weight in terms of the mark.
+answer or solution; iii) appropriate explanation of the proposed solution; iv) 
+organization and clarity of submitted materials. All criteria carry out an equal 
+weight in terms of the mark.
 
 ## Organization of the Module
 The following table shows the schedule of the module. Based on students'
 progress throughout the module, the topics included could suffer from some **minor
 changes**.
 
-Each _**Monday** at 8:00 AM London time_, students will be provided with a
+Each _**Friday** at 12:00 PM London time_, students will be provided with a
 video-recording of the lecture (around 60 minutes long). Also, at the 
-[course GitHub repo](https://github.com/mattDevigili/dms-smm695), lecture slides, code scripts, data, and homework will be
-uploaded.
+[course GitHub repo](https://github.com/mattDevigili/dms-smm695), lecture slides, 
+code scripts, data, and homework will be  uploaded.
 
-Each _**Thursday** from 10:30 to 12:00 AM London time_, an interactive Zoom webinar
+Each _**Monday** from 09:30 to 11:30 AM London time_, an interactive Zoom webinar
 will be held. Hence, students have almost 3 days to go through the
-video-recording and the uploaded materials. In the first part of the webinar, I
-will answer students' questions concerning the topics covered. **Note**:
-students are invited to share their questions via email the day before the
-webinar (by 8:00 PM London time). In the second part, I will discuss some
-further applications of the topic covered. 
+video recording and the uploaded materials. In the first part of the webinar, I
+will provide a recap of the video recording and answer students' questions 
+concerning the topics covered. **Note**: students are invited to share their 
+questions via email the day before the webinar (by 8:00 PM London time). In 
+the second part, I will discuss some further applications of the topic covered. 
 
 To recap:
 * _MS Teams_ is the main communication channel
@@ -98,7 +107,7 @@ To recap:
 
 | Week (dd-mm) | Agenda         | Topics                                             |
 |--------------|----------------|----------------------------------------------------|
-| 1 (21-05)    | **PostgreSQL** | Introduction to RDMS                               |
+| 1 (17-05)    | **PostgreSQL** | Introduction to RDMS                               |
 |              |                | PostgreSQL (psql and pgAmin4)                      |
 |              |                | Installation                                       |
 |              |                | Create (Database, Schema, Table)                   |
@@ -108,7 +117,7 @@ To recap:
 |              |                | --- Character                                      |
 |              |                | --- Date and time                                  |
 |              |                | Drop (Database, Schema, Table)                     |
-| 2 (28-05)    |                | Constraints:                                       |
+| 2 (24-05)    |                | Constraints:                                       |
 |              |                | --- Not Null                                       |
 |              |                | --- Unique                                         |
 |              |                | --- Primary Key                                    |
@@ -117,38 +126,38 @@ To recap:
 |              |                | Basic SQL                                          |
 |              |                | Aggregate functions                                |
 |              |                | Grouping                                           |
-| 3 (04-06)    |                | Foreign Key                                        |
+| 3 (07-06)    |                | Foreign Key                                        |
 |              |                | Joins:                                             |
 |              |                | --- Inner                                          |
 |              |                | --- Left/Right/Full (Outer)                        |
 |              |                | --- Cross                                          |
 |              |                | Export data                                        |
-| 4 (11-06)    | **MongoDB**    | Introduction to MongoDB                            |
+| 4 (14-06)    | **MongoDB**    | Introduction to MongoDB                            |
 |              |                | Installation (Mongo Shell, MongoDB Compass, Atlas) |
 |              |                | CRUD operations:                                   |
 |              |                | --- Insert                                         |
 |              |                | --- Find                                           |
 |              |                | --- Update (Replace)                               |
 |              |                | --- Delete (Drop)                                  |
-| 5 (18-06)    |                | Load data                                          |
+| 5 (21-06)    |                | Load data                                          |
 |              |                | Query and Projection Operators                     |
 |              |                | Introduction to the _Aggregation Framework_          |
-| 6 (25-06)    | **PySpark**    | Introduction to PySpark                            |
+| 6 (28-06)    | **PySpark**    | Introduction to PySpark                            |
 |              |                | Regression module                                  |
 
 
 
 ## Software requirements
 During the course, students will be guided to install:
-* [psql](https://www.postgresql.org/docs/12/app-psql.html) and [pgAdmin4](https://www.pgadmin.org) to explore PostgreSQL;
+* [psql](https://www.postgresql.org/docs/13/app-psql.html) and [pgAdmin4](https://www.pgadmin.org) to explore PostgreSQL;
 * The [mongo shell](https://www.mongodb.com/download-center/community) and [MongoDB Compass](https://www.mongodb.com/products/compass) to explore MongoDB.
 
 We will also interact with [Amazon RDS](https://aws.amazon.com/rds/) and [MongoDB Atlas](https://www.mongodb.com/cloud/atlas),
 so please be sure to have a stable internet connection. 
 
-To follow the lecture in _week 6_ and _webinars_, you need to run Python 3.7. The
+To follow the lectures in _week 2, 4, 6_ and _webinars_, you need to run Python $\ge$ 3.7. The
 easiest way to do that is to install [Anaconda](https://www.anaconda.com/products/individual).
 
 ## Version history
 * Created: Wed May 13 15:10:14 BST 2020
-* Last Changed: Sun Jun  7 15:13:35 BST 2020 
+* Last Changed: Mon 10 May 08:56:40 BST 2021

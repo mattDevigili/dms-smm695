@@ -24,11 +24,11 @@ This is a list of python libraries you need to install:
 
 | Week        | Library        |
 |-------------|----------------|
-| *2 (28-05)* | psycopg2       |
-| *4 (11-06)* | pymongo        |
+| *2 (24-05)* | psycopg2       |
+| *4 (14-06)* | pymongo        |
 |             | requests       |
 |             | beautifulsoup4 |
-| *6 (25-06)* | pyspark <a href="#note1" id="note1ref"><sup>1</sup></a>        |
+| *6 (28-06)* | pyspark <a href="#note1" id="note1ref"><sup>1</sup></a>        |
 |             | pandas         |
 
 ### Install libraries
