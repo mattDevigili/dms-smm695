@@ -9,6 +9,7 @@ discuss:
 | **Week (date)** | **Agenda**                                       |
 |-----------------|--------------------------------------------------|
 | 1 (17-05)       | Introduction to SMM695                           |
+|                 | [PostgreSQL vs MongoDB](https://www.mongodb.com/compare/mongodb-postgresql) |
 |                 | _Q&A_                                            |
 |                 | Relational model                                 |
 |                 | ER diagrams                                      |
