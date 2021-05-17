@@ -27,7 +27,9 @@ No preparation is required to attend this webinar.
 Webinar materials:
 * _homeworkScript.sql_: solutions for the _homework_1.md_;
 * _artworkRandomSample.csv_: a small and simplified version of the [artworks_data.csv](https://github.com/tategallery/collection/blob/master/artwork_data.csv);
-* _exampleArtworks.png_: an entity relation diagram obtained with [PgAdmin 4](https://www.pgadmin.org/docs/pgadmin4/5.2/erd_tool.html).
+* _erdPgAdmin4.png_: an entity relation diagram obtained with [PgAdmin 4](https://www.pgadmin.org/docs/pgadmin4/5.2/erd_tool.html);
+* _erdDBeaver.png_: an entity relation diagram obtained with [DBeaver](https://dbeaver.io);
+* _exampleArtworks.sql_: one possible schema for the artworks case.
 
 ## Pagila
 To load the [Pagila](https://github.com/devrimgunduz/pagila) example, please do the following:
