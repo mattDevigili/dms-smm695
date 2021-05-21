@@ -17,7 +17,7 @@ constant evolution.
 
 **Webinar**: Monday --- 09:30 - 11:30 (via Zoom)
 
-**Office hour**: Monday --- 12:00 - 13:00 (via MS Teams)
+**Office hour**: Monday --- 11:30 - 13:30 (via Zoom)
 
 ## Module Overview
 This module focuses on storing, querying, and manipulating data. In
