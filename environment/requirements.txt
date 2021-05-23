@@ -1,9 +1,7 @@
 numpy
 pandas
 jupyter
-psycopg2
-# Pure-python users:
-#psycopg2-binary
+psycopg2-binary
 pymongo
 beautifulsoup4
 requests
