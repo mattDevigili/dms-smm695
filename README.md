@@ -155,7 +155,7 @@ During the course, students will be guided to install:
 We will also interact with [Amazon RDS](https://aws.amazon.com/rds/) and [MongoDB Atlas](https://www.mongodb.com/cloud/atlas),
 so please be sure to have a stable internet connection. 
 
-To follow the lectures in _week 2, 4, 6_ and _webinars_, you need to run Python $\ge$ 3.7. The
+To follow the lectures in _week 2, 4, 6_ and _webinars_, you need to run Python >= 3.7. The
 easiest way to do that is to install [Anaconda](https://www.anaconda.com/products/individual).
 
 ## Version history
