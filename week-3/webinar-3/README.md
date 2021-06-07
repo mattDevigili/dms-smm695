@@ -6,8 +6,8 @@ Here you can find the structure for the third webinar.
 |-----------------|-------------------------------------------------------------------------------------------|
 | 3 (07-06)       | Mid-term project                                                                          |
 |                 | _Q&A_                                                                                     |
-|                 | Introduction to Design Theory (part two)                                                  |
 |                 | [Psycopg2](https://pypi.org/project/psycopg2/)                                            |
+|                 | Introduction to Design Theory (part two)                                                  |
 |                 | [Artworks - Tate](https://github.com/tategallery/collection/blob/master/artwork_data.csv) |
 |                 | --- FDs and Anomalies                                                                     |
 |                 | --- Decomposition                                                                         |
