@@ -74,14 +74,14 @@ brew services stop mongodb-community@4.4
 download the **MSI** file:
 
 <div align="center">   
-<img src="images/_0.png" width="100%">
+<img src="images/_0.png" width="80%">
 </div>
 
 2. Once the download is completed, click on the downloaded file. The expected
    result is the following:
 
 <div align="center">   
-<img src="images/_1.png" width = "80%">
+<img src="images/_1.png" width = "60%">
 </div>
 
 3. Click **Next**
@@ -89,21 +89,21 @@ download the **MSI** file:
 4. Then, accept _'terms in the Licence Agreement'_:
 
 <div align="center">
-<img src="images/_2.png" width = "80%">
+<img src="images/_2.png" width = "60%">
 </div>
 
 
 5. Choose the **complete** set-up type:
 
 <div align="center">
-<img src="images/_3.png" width = "80%">
+<img src="images/_3.png" width = "60%">
 </div>
 
 
 6. Leave **default** settings and click next:
 
 <div align="center">
-<img src="images/_4.png" width = "80%">
+<img src="images/_4.png" width = "60%">
 </div>
 
 
@@ -111,7 +111,7 @@ download the **MSI** file:
    Compass`:
 
 <div align="center">   
-<img src="images/_45.png" width = "80%">
+<img src="images/_45.png" width = "60%">
 </div>
 
 
@@ -137,7 +137,7 @@ download the **MSI** file:
 13. In the Windows search bar type `system environment variable`:
 
 <div align="center">
-<img src="images/_6.png" width = "80%">
+<img src="images/_6.png" width = "60%">
 </div>
 
 
@@ -146,21 +146,21 @@ download the **MSI** file:
 15. Click `Environment Variables`:
 
 <div align="center">
-<img src="images/_7.png" width = "80%">
+<img src="images/_7.png" width = "60%">
 </div>
 
 
 16. Double click on `path`:
 
 <div align="center">
-<img src="images/_8.png" width = "80%">
+<img src="images/_8.png" width = "60%">
 </div>
 
 
 17. Now, you should see the following:
 
 <div align="center">
-<img src="images/_9.png" width = "80%">
+<img src="images/_9.png" width = "60%">
 </div>
 
 
@@ -179,7 +179,7 @@ download the **MSI** file:
 20. Now, within `environment variable`, click on `new` and paste the path:
 
 <div align="center">
-<img src="images/_11.png" width = "80%">
+<img src="images/_11.png" width = "60%">
 </div>
 
 
@@ -194,7 +194,7 @@ mongo --nodb
 23. This is the result expected:
 
 <div align="center">
-<img src="images/_12.png" width = "80%">
+<img src="images/_12.png" width = "60%">
 </div>
 
 
