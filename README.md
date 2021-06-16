@@ -141,7 +141,8 @@ To recap:
 |              |                | --- Delete (Drop)                                  |
 | 5 (21-06)    |                | Load data                                          |
 |              |                | Query and Projection Operators                     |
-|              |                | Introduction to the _Aggregation Framework_          |
+|              |                | Introduction to the _Aggregation Framework_        |
+|              |                | Data Export                                        |
 | 6 (28-06)    | **PySpark**    | Introduction to PySpark                            |
 |              |                | Regression module                                  |
 
