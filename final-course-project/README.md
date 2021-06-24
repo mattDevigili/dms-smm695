@@ -36,7 +36,7 @@ You are required to choose your preferred DBMS -- PostgreSQL or MongoDB -- and:
 To perform task 1 and 2, you need to use either `SQL` or `MQL`<a href="#note2" id="note2ref"><sup>2</sup></a> (MongoDB query language). 
 Alternatively, if you prefer using python, you can leverage `psycopg2` or `pymongo`.
 For what concerns task 3, you should use `PySpark` (e.g., you may want to leverage on the
-[MLlib](https://spark.apache.org/docs/latest/api/python/pyspark.mllib.html) library).
+[MLlib](https://spark.apache.org/docs/latest/api/python/reference/pyspark.ml.html) library).
 
 ## Deliverables
 
