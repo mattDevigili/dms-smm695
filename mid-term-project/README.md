@@ -28,9 +28,9 @@ All these files are `gzipped` and in `tsv` (tab-separated-values) format.
 
 For the **MTP** you are required to:
 
-1. Import the above tables into your `localhost`<sup>[1](#myfootnote1)</sup>
+1. Import the above tables into your `localhost`<a href="#note2" id="note2ref"><sup>1</sup></a>
    via SQL (psql, PgAdmin4) and/or python (psycopg2).
-2. Set appropriate data types and constraints<sup>[2](#myfootnote2)</sup> per
+2. Set appropriate data types and constraints<a href="#note2" id="note2ref"><sup>1</sup></a> per
    each column (_n.b._: you may also modify columns with postgre built-in
    functions) -- use `SQL` only;
 3. Propose at least 3 _meaningful_ views ([CREATE
@@ -64,14 +64,14 @@ The supporting documentation should not exceed 1,500 words.
 
 ### Notes
 
-<a name="myfootnote1">1:</a> To speed up the process, you may look at [COPY
+<a id="#note1" href="#note1ref">1</a>: To speed up the process, you may look at [COPY
 FROM PROGRAM](https://www.postgresql.org/docs/13/sql-copy.html) combined with
 [wget](https://en.wikipedia.org/wiki/Wget) && [gzip
 -dc](https://www.gnu.org/software/gzip/manual/gzip.html). Or via psycopg2, you
 may be interested in
 [execute_batch](https://www.psycopg.org/docs/extras.html).
 
-<a name="myfootnote2">2:</a> Being a subset of the IMDb data, you may encounter
+<a id="note2" href="#note2ref">2</a>: Being a subset of the IMDb data, you may encounter
 **missing** values in some fields you want to set as a reference for a _Foreign
 Key_.  To solve these issues ("quick-and-dirty" solution), you may delete
 non-matched inserts.  Given the number of lines involved (>12M and in one 

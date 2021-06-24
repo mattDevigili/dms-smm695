@@ -145,7 +145,7 @@ To recap:
 |              |                | Data Export                                        |
 | 6 (28-06)    | **PySpark**    | Introduction to PySpark                            |
 |              |                | Regression module                                  |
-
+|              |                | Connection to PostgreSQL and MongoDB               |
 
 
 ## Software requirements

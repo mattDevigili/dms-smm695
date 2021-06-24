@@ -47,18 +47,21 @@ If you are a Conda user do:
 conda install --file requirements.txt
 ``` 
 
-## Java 8
+## Java 8/11
 
 [Spark Documentation](https://spark.apache.org/docs/latest/):
 
-> 'Spark runs on Java 8, Python 2.7+/3.4+ and R 3.1+. For the Scala API, Spark 2.4.5 uses Scala 2.12. 
-> You will need to use a compatible Scala version (2.12.x)'.
+> 'Spark runs on Java 8/11, Scala 2.12, Python 3.6+ and R 3.5+. Java 8 prior to version 8u92 support
+> is deprecated as of Spark 3.0.0. For the Scala API, Spark 3.1.2 uses Scala 2.12. You will need 
+> to use a compatible Scala version (2.12.x)'.
 
-To follow week 6, you need to run Java 8.
+To follow week 6, you need to run Java 8/11.
 
-_Notes_:
+------------------------------------------------------------------------------------------------------------------------
 
-<a id="note1" href="#note1ref"><sup>1</sup></a> Pyspark requires Java 8.
+### Notes:
 
-<a id="note2" href="#note2ref"><sup>2</sup></a> For the sake of simplicity, Pure-Python users need to install `psycopg2-binary` and not `psycopg2`.
+<a id="note1" href="#note1ref">1</a>: Pyspark requires Java 8/11. See this [link](https://spark.apache.org/docs/latest/api/python/getting_started/install.html)
+
+<a id="note2" href="#note2ref">2</a>: For the sake of simplicity, Pure-Python users need to install `psycopg2-binary` and not `psycopg2`.
 
