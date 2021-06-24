@@ -30,7 +30,7 @@ For the **MTP** you are required to:
 
 1. Import the above tables into your `localhost`<a href="#note2" id="note2ref"><sup>1</sup></a>
    via SQL (psql, PgAdmin4) and/or python (psycopg2).
-2. Set appropriate data types and constraints<a href="#note2" id="note2ref"><sup>1</sup></a> per
+2. Set appropriate data types and constraints<a href="#note2" id="note2ref"><sup>2</sup></a> per
    each column (_n.b._: you may also modify columns with postgre built-in
    functions) -- use `SQL` only;
 3. Propose at least 3 _meaningful_ views ([CREATE
