@@ -144,8 +144,9 @@ To recap:
 |              |                | Introduction to the _Aggregation Framework_        |
 |              |                | Data Export                                        |
 | 6 (28-06)    | **PySpark**    | Introduction to PySpark                            |
-|              |                | Regression module                                  |
 |              |                | Connection to PostgreSQL and MongoDB               |
+|              |                | Regression module                                  |
+|              |                | NLP examples                                       | 
 
 
 ## Software requirements

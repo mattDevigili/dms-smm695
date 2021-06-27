@@ -6,3 +6,4 @@ pymongo
 beautifulsoup4
 requests
 pyspark
+matplotlib
