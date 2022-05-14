@@ -41,6 +41,7 @@ Furthermore, I will provide you with some _not mandatory and not rated homework_
 to test your understanding of the lecture. 
 
 The following references concern additional material you may be interested:
+
 * PostgreSQL:
   * [PostgreSQL Documentation](https://www.postgresql.org/docs/14/index.html)
   * [PostgreSQL: Up and Running](http://shop.oreilly.com/product/0636920052715.do)
@@ -63,7 +64,7 @@ In terms of assessment, students are required to deliver one group-level
 coursework project (so, _no final examination or individual assignments_).
 
 The **final course project** will be launched in week 5, and submissions will
-be evaluated on a rolling-based window and are due by July 22 (8:00 PM London
+be evaluated on a rolling-based window and are due by July 22 (4:00 PM London
 Time). Students will be required to deal with real-world data from scratch, thus
 implementing what learned during this module.
 
@@ -92,6 +93,7 @@ email the day before the webinar (by 8:00 PM London time). In the second part, I
 will discuss some further applications of the topic covered. 
 
 To recap:
+
 * _MS Teams_ is the main communication channel
 * _GitHub_ is where you can find all relevant material
 * _Room 2002_ hosts webinar sessions
@@ -142,6 +144,7 @@ To recap:
 
 ## Software requirements
 During the course, students will be guided to install:
+
 * [psql](https://www.postgresql.org/docs/14/app-psql.html) and [pgAdmin4](https://www.pgadmin.org) to explore PostgreSQL;
 * The [mongo shell](https://www.mongodb.com/download-center/community) and [MongoDB Compass](https://www.mongodb.com/products/compass) to explore MongoDB.
 
@@ -152,5 +155,6 @@ To follow the lectures in _week 2, 4, 6_ and _webinars_, you need to run Python 
 easiest way to do that is to install [Anaconda](https://www.anaconda.com/products/individual).
 
 ## Version history
+
 * Created: Wed May 13 15:10:14 BST 2020
 * Last Changed: Sat 14 May 2022 15:34:39 BST

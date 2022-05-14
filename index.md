@@ -63,7 +63,7 @@ In terms of assessment, students are required to deliver one group-level
 coursework project (so, _no final examination or individual assignments_).
 
 The **final course project** will be launched in week 5, and submissions will
-be evaluated on a rolling-based window and are due by July 22 (8:00 PM London
+be evaluated on a rolling-based window and are due by July 22 (4:00 PM London
 Time). Students will be required to deal with real-world data from scratch, thus
 implementing what learned during this module.
 
