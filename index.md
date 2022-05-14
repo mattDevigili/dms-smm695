@@ -42,7 +42,7 @@ to test your understanding of the lecture.
 
 The following references concern additional material you may be interested:
 * PostgreSQL:
-  * [PostgreSQL Documentation](https://www.postgresql.org/docs/13/index.html)
+  * [PostgreSQL Documentation](https://www.postgresql.org/docs/14/index.html)
   * [PostgreSQL: Up and Running](http://shop.oreilly.com/product/0636920052715.do)
 * MongoDB:
   * [MongoDB Manual](https://docs.mongodb.com/manual/)
@@ -142,7 +142,7 @@ To recap:
 
 ## Software requirements
 During the course, students will be guided to install:
-* [psql](https://www.postgresql.org/docs/13/app-psql.html) and [pgAdmin4](https://www.pgadmin.org) to explore PostgreSQL;
+* [psql](https://www.postgresql.org/docs/14/app-psql.html) and [pgAdmin4](https://www.pgadmin.org) to explore PostgreSQL;
 * The [mongo shell](https://www.mongodb.com/download-center/community) and [MongoDB Compass](https://www.mongodb.com/products/compass) to explore MongoDB.
 
 We will also interact with [Amazon RDS](https://aws.amazon.com/rds/) and [MongoDB Atlas](https://www.mongodb.com/cloud/atlas),
