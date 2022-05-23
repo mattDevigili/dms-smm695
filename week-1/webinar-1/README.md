@@ -30,7 +30,7 @@ Webinar materials:
 
 * _homeworkScript.sql_: solutions for the _homework_1.md_;
 * _artworkRandomSample.csv_: a small and simplified version of the [artworks_data.csv](https://github.com/tategallery/collection/blob/master/artwork_data.csv);
-* _erdPgAdmin4.png_: an entity relation diagram obtained with [PgAdmin 4](https://www.pgadmin.org/docs/pgadmin4/6.9/erd_tool.html);
+* _erdArtworks.png_: an entity relation diagram obtained with [PgAdmin 4](https://www.pgadmin.org/docs/pgadmin4/6.9/erd_tool.html);
 * _exampleArtworks.sql_: a possible schema for the artworks case.
 
 ## Pagila
