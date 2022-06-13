@@ -28,4 +28,4 @@ understanding of the lecture_
 
 5. Delete _The White Stripes_
 
-6. Count the number of 'superbands' formed before 1990 (use _.count()_)
+6. Count the number of 'superbands' formed before 1990 (use _.itcount()_)
