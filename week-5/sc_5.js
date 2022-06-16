@@ -1,9 +1,5 @@
 // 1. Loading data on our Atlas Cluster
 
-// If you do not remember the connection string, visit your Atlas account
-use tate
-
-
 // using mongoimport:
 mongoimport --host **your***primary***cluster.mongodb.net:27017 --db tate --collection artworks --type json --file artworks.json --jsonArray --authenticationDatabase admin --ssl  --username ***your_username***
 
