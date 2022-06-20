@@ -3,7 +3,7 @@ Here you can find the structure for the fifth webinar.
 
 | **Week (date)** | **Agenda**                                           |
 |-----------------|------------------------------------------------------|
-| 6 (21-06)       | Homework 5 solutions                                 | 
+| 5 (21-06)       | Homework 5 solutions                                 | 
 |                 | _Q&A_                                                |
 |                 | [PyMongo](https://pymongo.readthedocs.io/en/stable/) |
 |                 | - Design                                             |
