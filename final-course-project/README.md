@@ -12,8 +12,8 @@ examples of [open source
 software](https://en.wikipedia.org/wiki/Open-source_software) (OSS) development.
 
 <p align="middle">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="100" />
-  <img src="https://www.gstatic.com/devrel-devsite/prod/v1a2d2d725c48303ffd65eb7122e57032dbf9bb148227658cacdfddf0dcae1e46/tensorflow/images/lockup.svg" width="100" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="250" />
+  <img src="https://www.gstatic.com/devrel-devsite/prod/v1a2d2d725c48303ffd65eb7122e57032dbf9bb148227658cacdfddf0dcae1e46/tensorflow/images/lockup.svg" width="250" /> 
 </p>
 
 OSS challenges common managerial assumptions on the organizing and functioning
