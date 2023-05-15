@@ -1,7 +1,7 @@
 # Data Management Systems --- SMM695
 
 <p align="center">
-  <img src="_0.jpg">
+  <img src="0.jpg">
 </p>
 
 
