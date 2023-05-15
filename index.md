@@ -1,4 +1,5 @@
 # Data Management Systems --- SMM695
+
 Databases are always there, even if you do not know. Searching for a product on
 e-commerce, writing a message to a friend, or looking for a paper to cite in
 your thesis, you are interacting with a database. For this reason, databases are
@@ -8,18 +9,20 @@ knowing their basic functioning.
 Through the years, the world of databases has faced several developments with
 always new approaches to structuring, storing, and interacting with data. From
 the relational model to more flexible systems, the journey of databases is in
-constant evolution. 
+constant evolution.
 
 ## Instructor
-**Name**: Matteo Devigili, Ph.D. Student
+
+**Name**: Matteo Devigili, Visiting Lecturer and Ph.D. Student
 
 **Contacts**: matteo.devigili.2@city.ac.uk
 
-**Lecture**: Tuesday --- 09:00 - 10:50 (room 2002)
+**Lecture**: Friday --- 09:00 - 10:50 (room 2002)
 
-**Office hour**: Tuesday --- 11:00 - 13:00 (face-to-face or Zoom)
+**Office hour**: Friday --- 11:00 - 13:00 (face-to-face or Zoom)
 
 ## Module Overview
+
 This module focuses on storing, querying, and manipulating data. In
 particular, we will discuss [PostgreSQL](https://www.postgresql.org) (a
 prominent, advanced, and open-source relational database) and
@@ -31,6 +34,7 @@ can scale SQL, machine learning, and network analysis pipelines) leveraging
 on [PySpark](https://spark.apache.org/docs/latest/api/python/index.html#).
 
 ## Materials & Readings
+
 For this course, you do not have to buy any book, but you need to go through
 the following:
 
@@ -38,9 +42,10 @@ the following:
 * SQL/JS/Python scripts (to be uploaded onto Github weekly).
 
 Furthermore, I will provide you with some _not mandatory and not rated homework_
-to test your understanding of the lecture. 
+to test your understanding of the lecture.
 
 The following references concern additional material you may be interested:
+
 * PostgreSQL:
   * [PostgreSQL Documentation](https://www.postgresql.org/docs/14/index.html)
   * [PostgreSQL: Up and Running](http://shop.oreilly.com/product/0636920052715.do)
@@ -52,6 +57,7 @@ The following references concern additional material you may be interested:
   * [Learning PySpark](https://link.springer.com/book/10.1007%2F978-1-4842-4961-1)
 
 ## Learning Objectives and Assessment
+
 At the end of the module, students should be able to:
 
 * design a relational database with PostgreSQL
@@ -74,6 +80,7 @@ solution; iv) organization and clarity of submitted materials. All criteria
 carry out an equal weight in terms of the mark.
 
 ## Organization of the Module
+
 The following table shows the schedule of the module. Based on students'
 progress throughout the module, the topics included could suffer from some 
 **minor changes**.
@@ -89,12 +96,13 @@ recording and the uploaded materials. In the first part of the class, I will
 provide a recap of the video recording and answer students' questions concerning
 the topics covered. **Note**: students are invited to share their questions via
 email the day before the webinar (by 8:00 PM London time). In the second part, I
-will discuss some further applications of the topic covered. 
+will discuss some further applications of the topic covered.
 
 To recap:
+
 * _MS Teams_ is the main communication channel
 * _GitHub_ is where you can find all relevant material
-* _Room 2002_ hosts webinar sessions
+* _Zoom_ hosts webinar sessions
 
 | Week (dd-mm) | Agenda         | Topics                                             |
 |--------------|----------------|----------------------------------------------------|
@@ -141,7 +149,9 @@ To recap:
 
 
 ## Software requirements
+
 During the course, students will be guided to install:
+
 * [psql](https://www.postgresql.org/docs/14/app-psql.html) and [pgAdmin4](https://www.pgadmin.org) to explore PostgreSQL;
 * The [mongo shell](https://www.mongodb.com/download-center/community) and [MongoDB Compass](https://www.mongodb.com/products/compass) to explore MongoDB.
 
@@ -152,5 +162,6 @@ To follow the lectures in _week 2, 4, 6_ and _webinars_, you need to run Python 
 easiest way to do that is to install [Anaconda](https://www.anaconda.com/products/individual).
 
 ## Version history
+
 * Created: Wed May 13 15:10:14 BST 2020
 * Last Changed: Sat 14 May 2022 15:34:39 BST

@@ -1,9 +1,0 @@
-numpy
-pandas
-jupyter
-psycopg2-binary
-pymongo
-beautifulsoup4
-requests
-pyspark
-matplotlib
