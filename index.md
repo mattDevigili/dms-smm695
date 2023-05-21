@@ -106,7 +106,7 @@ To recap:
 
 | Week (dd-mm) | Agenda         | Topics                                      | Material                                                                           |
 | ------------ | -------------- | ------------------------------------------- | ---------------------------------------------------------------------------------- |
-| 1 (26-05)    | **PostgreSQL** | Introduction to RDMS                        | [Lecture](https://github.com/mattDevigili/dms-smm695/blob/master/week-1/week-1.md) |
+| 1 (26-05)    | **PostgreSQL** | Introduction to RDMS                        | [Lecture](https://mattdevigili.github.io/dms-smm695/week-1/week-1) |
 |              |                | PostgreSQL (psql and pgAmin4)               | [Webinar](https://github.com/mattDevigili/dms-smm695/blob/master/week-1/webinar-1/README.md)                                                                        |
 |              |                | Installation                                |                                                                                    |
 |              |                | Create (Database, Schema, Table)            |                                                                                    |
