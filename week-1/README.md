@@ -4,7 +4,7 @@ Please click on the following image for the video recording:
 
 <a href="https://cityuni-my.sharepoint.com/:v:/r/personal/matteo_devigili_2_city_ac_uk/Documents/smm695/Week%201.mov?csf=1&web=1&e=FP0e66">
     <p align="center">
-    <img src="_/_0.png"  width=25% height=25%>
+    <img src=".util/0.png"  width=25% height=25%>
     </p>
 </a>
 
