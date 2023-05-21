@@ -1,6 +1,12 @@
 # Week 1
 
-The video recording is available at this [[link]](https://cityuni-my.sharepoint.com/:v:/r/personal/matteo_devigili_2_city_ac_uk/Documents/smm695/Week%201.mov?csf=1&web=1&e=FP0e66).
+Please click on the following image for the video recording:
+
+<a href="https://cityuni-my.sharepoint.com/:v:/r/personal/matteo_devigili_2_city_ac_uk/Documents/smm695/Week%201.mov?csf=1&web=1&e=FP0e66">
+    <p align="center">
+    <img src="_/_0.png"  width=25% height=25%>
+    </p>
+</a>
 
 In this video, you will: (i) learn some basics of relational databases, (ii)
 have a first introduction to PostgreSQL through psql and pgAmin4, and (iii)
@@ -26,11 +32,9 @@ The video is structured into eleven components:
 |              | Drop (Database, Schema, Table)     | 56:45 |
 |              | Import/Run a .sql file             | 59:51 |
 
-## Repo structure
+Other material available:
 
-    .
-    ├── README.md
-    ├── [hw_1.md](https://github.com/mattDevigili/dms-smm695/blob/master/week-1/hw_1.md)  # homework
-    ├── [ls_1.pdf](https://github.com/mattDevigili/dms-smm695/blob/master/week-1/ls_1.pdf) # lecture slides
-    ├── [sc_1.sql](https://github.com/mattDevigili/dms-smm695/blob/master/week-1/sc_1.sql) # lecture sql script
-    └── [webinar-1](https://github.com/mattDevigili/dms-smm695/blob/master/week-1/webinar-1)  # webinar 1 materials
+1. [hw_1.md](https://github.com/mattDevigili/dms-smm695/blob/master/week-1/hw_1.md): homework
+1. [ls_1.pdf](https://github.com/mattDevigili/dms-smm695/blob/master/week-1/ls_1.pdf): lecture slides
+1. [sc_1.sql](https://github.com/mattDevigili/dms-smm695/blob/master/week-1/sc_1.sql): lecture sql script
+1. [webinar-1](https://github.com/mattDevigili/dms-smm695/blob/master/week-1/webinar-1): webinar 1 materials
