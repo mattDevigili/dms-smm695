@@ -1,7 +1,7 @@
 ---
 title: Week 1
 layout: template
-filename: README.md
+filename: week-1.md
 --- 
 
 Please click on the following image for the video recording:
