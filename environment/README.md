@@ -37,7 +37,7 @@ This is a list of python libraries you need to install:
 
 ### Install libraries
 
-The _requirements.txt_ contains Python libraries to install.
+The [requirements.txt](https://github.com/mattDevigili/dms-smm695/blob/master/environment/requirements.txt) contains Python libraries to install.
 
 If you are a Pure-Python user do:
 

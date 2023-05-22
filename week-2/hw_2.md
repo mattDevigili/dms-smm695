@@ -1,4 +1,4 @@
-**Week Two**
+# Week 2 -- Homework
 
 _This homework is not mandatory, and not marked. You can use it to test your 
 understanding of the lecture_
