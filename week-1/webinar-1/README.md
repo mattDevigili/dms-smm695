@@ -1,4 +1,4 @@
-# Week 2
+# Webinar 1
 
 <p align="center">
   <img src="0.jpg">

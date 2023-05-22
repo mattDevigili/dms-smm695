@@ -17,7 +17,7 @@ constant evolution.
 
 **Contacts**: <matteo.devigili.2@city.ac.uk>
 
-**Webina**: Friday --- 09:00 - 10:50 (Zoom)
+**Webinar**: Friday --- 09:00 - 10:50 (Zoom)
 
 **Office hour**: Friday --- 11:00 - 13:00 (Zoom)
 
@@ -167,20 +167,20 @@ easiest way to do that is to install [Anaconda](https://www.anaconda.com/product
 Lectures:
 
 * [Week 1](https://mattdevigili.github.io/dms-smm695/week-1)
-* [Week 2]()
-* [Week 3]()
-* [Week 4]()
-* [Week 5]()
-* [Week 6]()
+* [Week 2](https://mattdevigili.github.io/dms-smm695/week-2)
+* [Week 3](https://mattdevigili.github.io/dms-smm695/week-3)
+* [Week 4](https://mattdevigili.github.io/dms-smm695/week-4)
+* [Week 5](https://mattdevigili.github.io/dms-smm695/week-5)
+* [Week 6](https://mattdevigili.github.io/dms-smm695/week-6)
 
 Webinars:
 
-* [Webinar 1]()
-* [Webinar 2]()
-* [Webinar 3]()
-* [Webinar 4]()
-* [Webinar 5]()
-* [Webinar 6]()
+* [Webinar 1](https://mattdevigili.github.io/dms-smm695/week-1/webinar-1)
+* [Webinar 2](https://mattdevigili.github.io/dms-smm695/week-2/webinar-2)
+* [Webinar 3](https://mattdevigili.github.io/dms-smm695/week-3/webinar-3)
+* [Webinar 4](https://mattdevigili.github.io/dms-smm695/week-4/webinar-4)
+* [Webinar 5](https://mattdevigili.github.io/dms-smm695/week-5/webinar-5)
+* [Webinar 6](https://mattdevigili.github.io/dms-smm695/week-6/webinar-6)
 
 Utils:
 
