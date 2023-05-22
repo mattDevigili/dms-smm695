@@ -2,7 +2,7 @@
 
 Lecture recording:
 
-[![Week 1](https://github.com/mattDevigili/dms-smm695/blob/master/week-1/.util/0.png)](https://cityuni-my.sharepoint.com/:v:/r/personal/matteo_devigili_2_city_ac_uk/Documents/smm695/Week%201.mov?csf=1&web=1&e=FP0e66)
+[![Week 1](img/lecture1.png)](https://cityuni-my.sharepoint.com/:v:/r/personal/matteo_devigili_2_city_ac_uk/Documents/smm695/Week%201.mov?csf=1&web=1&e=FP0e66)
 
 In this video, you will: (i) learn some basics of relational databases, (ii)
 have a first introduction to PostgreSQL through psql and pgAmin4, and (iii)
