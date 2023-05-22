@@ -33,4 +33,4 @@ Other material available:
 1. [hw_1.md](https://github.com/mattDevigili/dms-smm695/blob/master/week-1/hw_1.md): homework
 1. [ls_1.pdf](https://github.com/mattDevigili/dms-smm695/blob/master/week-1/ls_1.pdf): lecture slides
 1. [sc_1.sql](https://github.com/mattDevigili/dms-smm695/blob/master/week-1/sc_1.sql): lecture sql script
-1. [webinar-1](https://github.com/mattDevigili/dms-smm695/blob/master/week-1/webinar-1): webinar 1 materials
+1. [webinar-1](https://mattdevigili.github.io/dms-smm695/week-1/webinar-1/): webinar 1 materials

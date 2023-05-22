@@ -104,48 +104,48 @@ To recap:
 * _GitHub_ is where you can find all relevant material
 * _Zoom_ hosts webinar sessions
 
-| Week (dd-mm) | Agenda         | Topics                                      | Material                                                                           |
-| ------------ | -------------- | ------------------------------------------- | ---------------------------------------------------------------------------------- |
-| 1 (26-05)    | **PostgreSQL** | Introduction to RDMS                        | [Lecture](https://mattdevigili.github.io/dms-smm695/week-1) |
-|              |                | PostgreSQL (psql and pgAmin4)               | [Webinar](https://github.com/mattDevigili/dms-smm695/blob/master/week-1/webinar-1/README.md)                                                                        |
-|              |                | Installation                                |                                                                                    |
-|              |                | Create (Database, Schema, Table)            |                                                                                    |
-|              |                | Data types:                                 |                                                                                    |
-|              |                | --- Numeric                                 |                                                                                    |
-|              |                | --- Monetary                                |                                                                                    |
-|              |                | --- Character                               |                                                                                    |
-|              |                | --- Date and time                           |                                                                                    |
-|              |                | Drop (Database, Schema, Table)              |                                                                                    |
-| 2 (02-06)    |                | Constraints:                                |                                                                                    |
-|              |                | --- Not Null                                |                                                                                    |
-|              |                | --- Unique                                  |                                                                                    |
-|              |                | --- Primary Key                             |                                                                                    |
-|              |                | --- Check                                   |                                                                                    |
-|              |                | Import data                                 |                                                                                    |
-|              |                | Basic SQL                                   |                                                                                    |
-|              |                | Aggregate functions                         |                                                                                    |
-|              |                | Grouping                                    |                                                                                    |
-| 3 (09-06)    |                | Foreign Key                                 |                                                                                    |
-|              |                | Joins:                                      |                                                                                    |
-|              |                | --- Inner                                   |                                                                                    |
-|              |                | --- Left/Right/Full (Outer)                 |                                                                                    |
-|              |                | --- Cross                                   |                                                                                    |
-|              |                | Export data                                 |                                                                                    |
-| 4 (16-06)    | **MongoDB**    | Introduction to MongoDB                     |                                                                                    |
-|              |                | Installation                                |                                                                                    |
-|              |                | CRUD operations:                            |                                                                                    |
-|              |                | --- Insert                                  |                                                                                    |
-|              |                | --- Find                                    |                                                                                    |
-|              |                | --- Update (Replace)                        |                                                                                    |
-|              |                | --- Delete (Drop)                           |                                                                                    |
-| 5 (23-06)    |                | Load data                                   |                                                                                    |
-|              |                | Query and Projection Operators              |                                                                                    |
-|              |                | Introduction to the _Aggregation Framework_ |                                                                                    |
-|              |                | Data Export                                 |                                                                                    |
-| 6 (30-06)    | **PySpark**    | Introduction to PySpark                     |                                                                                    |
-|              |                | Connection to PostgreSQL and MongoDB        |                                                                                    |
-|              |                | Regression module                           |                                                                                    |
-|              |                | NLP examples                                |                                                                                    |
+| Week (dd-mm) | Agenda         | Topics                                      | Material                                                               |
+| ------------ | -------------- | ------------------------------------------- | ---------------------------------------------------------------------- |
+| 1 (26-05)    | **PostgreSQL** | Introduction to RDMS                        | [Lecture](https://mattdevigili.github.io/dms-smm695/week-1)            |
+|              |                | PostgreSQL (psql and pgAmin4)               | [Webinar](https://mattdevigili.github.io/dms-smm695/week-1/webinar-1/) |
+|              |                | Installation                                |                                                                        |
+|              |                | Create (Database, Schema, Table)            |                                                                        |
+|              |                | Data types:                                 |                                                                        |
+|              |                | --- Numeric                                 |                                                                        |
+|              |                | --- Monetary                                |                                                                        |
+|              |                | --- Character                               |                                                                        |
+|              |                | --- Date and time                           |                                                                        |
+|              |                | Drop (Database, Schema, Table)              |                                                                        |
+| 2 (02-06)    |                | Constraints:                                | [Lecture](https://mattdevigili.github.io/dms-smm695/week-2)            |
+|              |                | --- Not Null                                | [Webinar](https://mattdevigili.github.io/dms-smm695/week-2/webinar-2/) |
+|              |                | --- Unique                                  |                                                                        |
+|              |                | --- Primary Key                             |                                                                        |
+|              |                | --- Check                                   |                                                                        |
+|              |                | Import data                                 |                                                                        |
+|              |                | Basic SQL                                   |                                                                        |
+|              |                | Aggregate functions                         |                                                                        |
+|              |                | Grouping                                    |                                                                        |
+| 3 (09-06)    |                | Foreign Key                                 | [Lecture](https://mattdevigili.github.io/dms-smm695/week-3)            |
+|              |                | Joins:                                      | [Webinar](https://mattdevigili.github.io/dms-smm695/week-3/webinar-3/) |
+|              |                | --- Inner                                   |                                                                        |
+|              |                | --- Left/Right/Full (Outer)                 |                                                                        |
+|              |                | --- Cross                                   |                                                                        |
+|              |                | Export data                                 |                                                                        |
+| 4 (16-06)    | **MongoDB**    | Introduction to MongoDB                     | [Lecture](https://mattdevigili.github.io/dms-smm695/week-4)            |
+|              |                | Installation                                | [Webinar](https://mattdevigili.github.io/dms-smm695/week-4/webinar-4/) |
+|              |                | CRUD operations:                            |                                                                        |
+|              |                | --- Insert                                  |                                                                        |
+|              |                | --- Find                                    |                                                                        |
+|              |                | --- Update (Replace)                        |                                                                        |
+|              |                | --- Delete (Drop)                           |                                                                        |
+| 5 (23-06)    |                | Load data                                   | [Lecture](https://mattdevigili.github.io/dms-smm695/week-5)            |
+|              |                | Query and Projection Operators              | [Webinar](https://mattdevigili.github.io/dms-smm695/week-5/webinar-5/) |
+|              |                | Introduction to the _Aggregation Framework_ |                                                                        |
+|              |                | Data Export                                 |                                                                        |
+| 6 (30-06)    | **PySpark**    | Introduction to PySpark                     | [Lecture](https://mattdevigili.github.io/dms-smm695/week-6)            |
+|              |                | Connection to PostgreSQL and MongoDB        | [Webinar](https://mattdevigili.github.io/dms-smm695/week-6/webinar-6/) |
+|              |                | Regression module                           |                                                                        |
+|              |                | NLP examples                                |                                                                        |
 
 ## Software requirements
 
@@ -166,12 +166,12 @@ easiest way to do that is to install [Anaconda](https://www.anaconda.com/product
 
 Lectures:
 
-* [Week 1](https://mattdevigili.github.io/dms-smm695/week-1)
-* [Week 2](https://mattdevigili.github.io/dms-smm695/week-2)
-* [Week 3](https://mattdevigili.github.io/dms-smm695/week-3)
-* [Week 4](https://mattdevigili.github.io/dms-smm695/week-4)
-* [Week 5](https://mattdevigili.github.io/dms-smm695/week-5)
-* [Week 6](https://mattdevigili.github.io/dms-smm695/week-6)
+* [Lecture 1](https://mattdevigili.github.io/dms-smm695/week-1)
+* [Lecture 2](https://mattdevigili.github.io/dms-smm695/week-2)
+* [Lecture 3](https://mattdevigili.github.io/dms-smm695/week-3)
+* [Lecture 4](https://mattdevigili.github.io/dms-smm695/week-4)
+* [Lecture 5](https://mattdevigili.github.io/dms-smm695/week-5)
+* [Lecture 6](https://mattdevigili.github.io/dms-smm695/week-6)
 
 Webinars:
 
