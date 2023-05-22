@@ -13,7 +13,7 @@ constant evolution.
 
 ## Instructor
 
-**Name**: Matteo Devigili
+**Name**: [Matteo Devigili](https://mattdevigili.github.io)
 
 **Contacts**: <matteo.devigili.2@city.ac.uk>
 
@@ -154,8 +154,36 @@ During the course, students will be guided to install:
 * [psql](https://www.postgresql.org/docs/14/app-psql.html) and [pgAdmin4](https://www.pgadmin.org) to explore PostgreSQL;
 * The [mongo shell](https://www.mongodb.com/download-center/community) and [MongoDB Compass](https://www.mongodb.com/products/compass) to explore MongoDB.
 
+Check the [environment](https://mattdevigili.github.io/dms-smm695/environment) folder for further info.
+
 We will also interact with [Amazon RDS](https://aws.amazon.com/rds/) and [MongoDB Atlas](https://www.mongodb.com/cloud/atlas),
 so please be sure to have a stable internet connection.
 
 To follow the lectures in _week 2, 4, 6_ and _webinars_, you need to run Python >= 3.7. The
 easiest way to do that is to install [Anaconda](https://www.anaconda.com/products/individual).
+
+## Jump to
+
+Lectures:
+
+* [Week 1](https://mattdevigili.github.io/dms-smm695/week-1)
+* [Week 2]()
+* [Week 3]()
+* [Week 4]()
+* [Week 5]()
+* [Week 6]()
+
+Webinars:
+
+* [Webinar 1]()
+* [Webinar 2]()
+* [Webinar 3]()
+* [Webinar 4]()
+* [Webinar 5]()
+* [Webinar 6]()
+
+Utils:
+
+* [Python environment set-up](https://mattdevigili.github.io/dms-smm695/environment)
+* [Tutorials](https://mattdevigili.github.io/dms-smm695/tutorials)
+* [Past assignments](https://mattdevigili.github.io/dms-smm695/past-assignments)
