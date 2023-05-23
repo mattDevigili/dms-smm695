@@ -73,43 +73,31 @@ brew services stop mongodb-community@6.0
 **1).** Visit the MongoDB Download centre. Select Community Edition, Windows x64, and 
 download the **MSI** file:
 
-<div align="center">   
-<img src="images/_0.png" width="80%">
-</div>
+![0](images/_0.png)
 
 **2).** Once the download is completed, click on the downloaded file. The expected
    result is the following:
 
-<div align="center">   
-<img src="images/_1.png" width = "60%">
-</div>
+![1](images/_1.png)
 
 **3).** Click **Next**
 
 **4).** Then, accept _'terms in the Licence Agreement'_:
 
-<div align="center">
-<img src="images/_2.png" width = "60%">
-</div>
+![2](images/_2.png)
 
 **5).** Choose the **complete** set-up type:
 
-<div align="center">
-<img src="images/_3.png" width = "60%">
-</div>
+![3](images/_3.png)
 
 **6).** Leave **default** settings and click next:
 
-<div align="center">
-<img src="images/_4.png" width = "60%">
-</div>
+![4](images/_4.png)
 
 **7).** Do not install MongoDB Compass here. So, **uncheck** the box `Install MongoDB
    Compass`:
 
-<div align="center">   
-<img src="images/_45.png" width = "60%">
-</div>
+![5](images/_45.png)
 
 **8).** Click **Next**
 
@@ -125,35 +113,26 @@ download the **MSI** file:
 
 **12).** Check that everything is fine. The expected outcome should be:
 
-<div align="center">
-<img src="images/_5.png" width = "80%">
+![](images/_5.png" width = "80%">
 </div>
 
 **13).** In the Windows search bar type `system environment variable`:
 
-<div align="center">
-<img src="images/_6.png" width = "60%">
-</div>
+![6](images/_6.png)
 
 **14).** Select `Edit the system environment variable`
 
 **15).** Click `Environment Variables`:
 
-<div align="center">
-<img src="images/_7.png" width = "60%">
-</div>
+![7](images/_7.png)
 
 **16).** Double click on `path`:
 
-<div align="center">
-<img src="images/_8.png" width = "60%">
-</div>
+![8](images/_8.png)
 
 **17).** Now, you should see the following:
 
-<div align="center">
-<img src="images/_9.png" width = "60%">
-</div>
+![9](images/_9.png)
 
 **18).** Go back to:
 
@@ -163,15 +142,12 @@ download the **MSI** file:
 
 **19).** Right-click on bin and copy the path:
 
-<div align="center">
-<img src="images/_10.png" width = "80%">
+![10](images/_10.png" width = "80%">
 </div>
 
 **20).** Now, within `environment variable`, click on `new` and paste the path:
 
-<div align="center">
-<img src="images/_11.png" width = "60%">
-</div>
+![11](images/_11.png)
 
 **21).** Click **OK**
 
@@ -183,9 +159,7 @@ mongo --nodb
 
 **23).** This is the result expected:
 
-<div align="center">
-<img src="images/_12.png" width = "60%">
-</div>
+![12](images/_12.png)
 
 **24).** To exit, type:
 
@@ -196,6 +170,4 @@ exit
 **25).** To install MongoDB Compass, please navigate to this [page](https://www.mongodb.com/try/download/compass) and 
     download the .msi:
 
-<div align="center">
-<img src="images/_13.png" width = "80%">
-</div>
+![13](images/_13.png)
