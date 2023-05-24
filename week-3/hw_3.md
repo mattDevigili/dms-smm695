@@ -3,7 +3,7 @@
 _Homeworks are not mandatory, and not marked. You can use them to test your
 understanding of the lecture_. Use the Pagila database.
 
-1. Get info on rental date by customer:
+**1).** Get info on the rental date by customer:
 
 | first_name | last_name | rental_date            |
 |------------|-----------|------------------------|
@@ -11,7 +11,7 @@ understanding of the lecture_. Use the Pagila database.
 | MANUEL     | MURRELL   | 2005-05-24 23:03:39+02 |
 | ANDREW     | PURDY     | 2005-05-24 23:04:41+02 |
 
-2. Join Actors and Film table:
+**2).** Join Actors and Film table:
 
 | first_name | last_name | title            |
 |------------|-----------|------------------|
@@ -19,7 +19,7 @@ understanding of the lecture_. Use the Pagila database.
 | CHRISTIAN  | GABLE     | ACADEMY DINOSAUR |
 | LUCILLE    | TRACY     | ACADEMY DINOSAUR |
 
-3. Count the number of films per each actor:
+**3).** Count the number of films per each actor:
 
 | first_name | last_name | count |
 |------------|-----------|-------|
@@ -27,7 +27,7 @@ understanding of the lecture_. Use the Pagila database.
 | JULIA      | ZELLWEGER | 16    |
 | AUDREY     | OLIVER    | 25    |
 
-4. Get customer (first_name and last_name), rental_date, and film title:
+**4).** Get customer (first_name and last_name), rental_date, and film title:
 
 | first_name | last_name | rental_date              | title           |
 |------------|-----------|--------------------------|-----------------|
@@ -35,7 +35,7 @@ understanding of the lecture_. Use the Pagila database.
 | "MANUEL"   | "MURRELL" | "2005-05-24 23:03:39+02" | "GRADUATE LORD" |
 | "ANDREW"   | "PURDY"   | "2005-05-24 23:04:41+02" | "LOVE SUICIDES" |
 
-5. Get customer (first_name and last_name), rental_date, and category name:
+**5).** Get customer (first_name and last_name), rental_date, and category name:
 
 | first_name | last_name | rental_date              | name       |
 |------------|-----------|--------------------------|------------|
@@ -43,7 +43,7 @@ understanding of the lecture_. Use the Pagila database.
 | "MANUEL"   | "MURRELL" | "2005-05-24 23:03:39+02" | "Children" |
 | "ANDREW"   | "PURDY"   | "2005-05-24 23:04:41+02" | "Horror"   |
 
-6. Get customer (first_name and last_name), category name, and count of
+**6).** Get customer (first_name and last_name), category name, and count of
    occurrences:
 
 | first_name | last_name | name        | count |

@@ -1,4 +1,6 @@
-# Data Management Systems --- SMM695
+# Data Management Systems
+
+![dms-smm695](_layouts/dms-punk.png)
 
 Databases are always there, even if you do not know. Searching for a product on
 e-commerce, writing a message to a friend, or looking for a paper to cite in
@@ -19,7 +21,7 @@ constant evolution.
 
 **Webinar**: Friday --- 09:00 - 10:50 (Zoom)
 
-**Office hour**: Friday --- 11:00 - 13:00 (Zoom)
+**Office hours**: Friday --- 11:00 - 13:00 (Zoom)
 
 ## Module Overview
 
@@ -35,7 +37,7 @@ on [PySpark](https://spark.apache.org/docs/latest/api/python/index.html#).
 
 ## Materials & Readings
 
-For this course, you do not have to buy any book, but you need to go through
+For this course, you do not have to buy any books, but you need to go through
 the following:
 
 * Lecture recordings (to be uploaded onto MS Streams weekly);
@@ -45,7 +47,7 @@ the following:
 Furthermore, I will provide you with some _not mandatory and not rated homework_
 to test your understanding of the lecture.
 
-The following references concern additional material you may be interested:
+The following references concern additional material you may be interested in:
 
 * PostgreSQL:
   * [PostgreSQL Documentation](https://www.postgresql.org/docs/14/index.html)
@@ -64,7 +66,7 @@ At the end of the module, students should be able to:
 * design a relational database with PostgreSQL
 * design a schema-free database with MongoDB
 * interact with and manipulate data in both PostgreSQL and MongoDB
-* design and execute scripts providing useful insights on data
+* design and execute scripts providing useful insights into data
 
 In terms of assessment, students are required to deliver one group-level
 coursework project (so, _no final examination or individual assignments_).
@@ -86,23 +88,20 @@ The following table shows the schedule of the module. Based on students'
 progress throughout the module, the topics included could suffer from some
 **minor changes**.
 
-Each _**Monday** at 12:00 PM London time_, students will be provided with a
-video recording of the lecture (around 60 minutes long). Also, at the [course
-GitHub repo](https://github.com/mattDevigili/dms-smm695), lecture slides, code
-scripts, data, and homework will be  uploaded.
+All the _pre-recorded material_ is already available on the [course GitHub page](https://mattdevigili.github.io/dms-smm695/) or [GitHub repo](https://github.com/mattDevigili/dms-smm695).
 
-Each _**Friday** from 09:00 to 10:50 AM London time_, an interactive webinar
-will be held. Hence, students have 3 full days to go through the video recording
-and the uploaded materials. In the first part of the class, I will provide a
-recap of the video recording and answer students' questions concerning the
-topics covered. **Note**: students are invited to share their questions via
-email the day before the webinar (by 8:00 PM London time). In the second part, I
-will discuss some further applications of the topic covered.
+An _interactive webinar_ will be held each **Friday** _from 09:00 to 10:50 AM
+London time_.  Students are expected to go through the weekly pre-recorded
+material in advance. In the first part of the class, I will provide a recap of
+the video recording and answer students' questions concerning the topics
+covered. _Note_: students are invited to share their questions via email the day
+before the webinar (by 8:00 PM London time). In the second part, I will discuss
+some further applications of the topic covered.
 
 To recap:
 
-* _GitHub_ is where you can find all relevant material
-* _Zoom_ hosts webinar sessions
+* _GitHub page_ or _GitHub repo_ is where you can find all relevant material
+* _Zoom_ hosts webinar sessions and office hours
 
 | Week (dd-mm) | Agenda         | Topics                                      | Material                                                               |
 | ------------ | -------------- | ------------------------------------------- | ---------------------------------------------------------------------- |
@@ -159,31 +158,17 @@ Check the [environment](https://mattdevigili.github.io/dms-smm695/environment) f
 We will also interact with [Amazon RDS](https://aws.amazon.com/rds/) and [MongoDB Atlas](https://www.mongodb.com/cloud/atlas),
 so please be sure to have a stable internet connection.
 
-To follow the lectures in _week 2, 4, 6_ and _webinars_, you need to run Python >= 3.7. The
+To follow the lectures in _weeks 2, 4, 6_ and _webinars_, you need to run Python >= 3.7. The
 easiest way to do that is to install [Anaconda](https://www.anaconda.com/products/individual).
 
 ## Jump to
 
-Lectures:
-
-* [Lecture 1](https://mattdevigili.github.io/dms-smm695/week-1)
-* [Lecture 2](https://mattdevigili.github.io/dms-smm695/week-2)
-* [Lecture 3](https://mattdevigili.github.io/dms-smm695/week-3)
-* [Lecture 4](https://mattdevigili.github.io/dms-smm695/week-4)
-* [Lecture 5](https://mattdevigili.github.io/dms-smm695/week-5)
-* [Lecture 6](https://mattdevigili.github.io/dms-smm695/week-6)
-
-Webinars:
-
-* [Webinar 1](https://mattdevigili.github.io/dms-smm695/week-1/webinar-1)
-* [Webinar 2](https://mattdevigili.github.io/dms-smm695/week-2/webinar-2)
-* [Webinar 3](https://mattdevigili.github.io/dms-smm695/week-3/webinar-3)
-* [Webinar 4](https://mattdevigili.github.io/dms-smm695/week-4/webinar-4)
-* [Webinar 5](https://mattdevigili.github.io/dms-smm695/week-5/webinar-5)
-* [Webinar 6](https://mattdevigili.github.io/dms-smm695/week-6/webinar-6)
-
-Utils:
-
-* [Python environment set-up](https://mattdevigili.github.io/dms-smm695/environment)
-* [Tutorials](https://mattdevigili.github.io/dms-smm695/tutorials)
-* [Past assignments](https://mattdevigili.github.io/dms-smm695/past-assignments)
+| Lectures                                              | Webinars                                                        | Utils                                                                              |
+| ----------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [1](https://mattdevigili.github.io/dms-smm695/week-1) | [1](https://mattdevigili.github.io/dms-smm695/week-1/webinar-1) | [Python environment set-up](https://mattdevigili.github.io/dms-smm695/environment) |
+| [2](https://mattdevigili.github.io/dms-smm695/week-2) | [2](https://mattdevigili.github.io/dms-smm695/week-2/webinar-2) | [Tutorials](https://mattdevigili.github.io/dms-smm695/tutorials)                   |
+| [3](https://mattdevigili.github.io/dms-smm695/week-3) | [3](https://mattdevigili.github.io/dms-smm695/week-3/webinar-3) | [Past assignments](https://mattdevigili.github.io/dms-smm695/past-assignments)     |
+| [4](https://mattdevigili.github.io/dms-smm695/week-4) | [4](https://mattdevigili.github.io/dms-smm695/week-4/webinar-4) |                                                                                    |
+| [5](https://mattdevigili.github.io/dms-smm695/week-5) | [5](https://mattdevigili.github.io/dms-smm695/week-5/webinar-5) |                                                                                    |
+| [6](https://mattdevigili.github.io/dms-smm695/week-6) | [6](https://mattdevigili.github.io/dms-smm695/week-6/webinar-6) |                                                                                    |
+|                                                       |                                                                 |                                                                                    |

@@ -8,7 +8,7 @@ In this video, you will learn: (i) how to create a table with constraints, (ii) 
 import data, and (iii) how to interact with your data employing some basic SQL
 operators and functions.
 
-The video is structured into six components:
+The video is structured into 6 components:
 
 | Week (dd-mm) | Topics              | Min   |
 | ------------ | ------------------- | ----- |

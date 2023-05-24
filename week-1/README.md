@@ -8,7 +8,7 @@ In this video, you will: (i) learn some basics of relational databases, (ii)
 have a first introduction to PostgreSQL through psql and pgAmin4, and (iii)
 learn how to create and drop databases, schemas, and tables.
 
-The video is structured into eleven components:
+The video is structured into 11 components:
 
 | Week (dd-mm) | Topics                             | Min   |
 | ------------ | ---------------------------------- | ----- |
