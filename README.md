@@ -1,6 +1,6 @@
 # Data Management Systems
 
-![dms-smm695](_layouts/dms-punk.png)
+![dms-smm695](/docs/assets/images/dms-punk.png)
 
 Welcome to Data Management Systems. This repository contains the backbone
 material for the course, which is designed primarily for Bayes Business School

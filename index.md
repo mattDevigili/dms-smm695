@@ -1,6 +1,6 @@
 # Data Management Systems
 
-![dms-smm695](_layouts/dms-punk.png)
+![dms-smm695](/docs/assets/images/dms-punk.png)
 
 Databases are always there, even if you do not know. Searching for a product on
 e-commerce, writing a message to a friend, or looking for a paper to cite in
