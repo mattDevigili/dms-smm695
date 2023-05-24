@@ -171,4 +171,3 @@ easiest way to do that is to install [Anaconda](https://www.anaconda.com/product
 | [4](https://mattdevigili.github.io/dms-smm695/week-4) | [4](https://mattdevigili.github.io/dms-smm695/week-4/webinar-4) |                                                                                    |
 | [5](https://mattdevigili.github.io/dms-smm695/week-5) | [5](https://mattdevigili.github.io/dms-smm695/week-5/webinar-5) |                                                                                    |
 | [6](https://mattdevigili.github.io/dms-smm695/week-6) | [6](https://mattdevigili.github.io/dms-smm695/week-6/webinar-6) |                                                                                    |
-|                                                       |                                                                 |                                                                                    |
