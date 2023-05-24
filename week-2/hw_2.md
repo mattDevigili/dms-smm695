@@ -4,6 +4,7 @@ _This homework is not mandatory, and not marked. You can use it to test your
 understanding of the lecture_
 
 **1).** Create a schema named homework 2
+
 **2).** Create a table with the following characteristics:
 
 | column_name   | data_type | length/precision |
@@ -63,7 +64,7 @@ understanding of the lecture_
 |-------|
 | 112   |
 
-1**0).** Select the two car models with the highest price for the last ten years
+**10).** Select the two car models with the highest price for the last ten years
 
 | car_model | max    |
 |-----------|--------|

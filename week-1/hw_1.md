@@ -4,7 +4,9 @@ _This homework is not mandatory, and not marked. You can use it to test your
 understanding of the lecture_.
 
 **1).** Create a new Database named smm695
+
 **2).** Create a new Schema named homework1
+
 **3).** Create a new Table with the following characteristics:
 
 | column_name | data_type | length/precision |
