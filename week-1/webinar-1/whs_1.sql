@@ -26,9 +26,8 @@ CREATE TABLE homework1.employee (
 
 --create a person table
 
-CREATE TABLE homework1.person (
+CREATE TABLE homework1.personalinfo (
     id serial PRIMARY KEY,
-    name varchar(10),
     country varchar(20),
     postal_code text,
     dob date);
@@ -42,10 +41,10 @@ INSERT INTO homework1.employee (first_name, last_name, email, salary)
 
 --inserting values into person
 
-INSERT INTO homework1.person (name, country, postal_code, dob)
-    VALUES ('Martina',  'Italy', '04929', '1995-06-18'),
-    ('Lenny', 'United Kingdom',  'E2 9AD',  '1980-05-13'),
-    ('Taha', 'China', '100023', '1994-09-12');
+INSERT INTO homework1.personalinfo (country, postal_code, dob)
+    VALUES ('Italy', '04929', '1995-06-18'),
+    ('United Kingdom',  'E2 9AD',  '1980-05-13'),
+    ('China', '100023', '1994-09-12');
 
 
 --to list schemas for smm695
@@ -56,4 +55,8 @@ INSERT INTO homework1.person (name, country, postal_code, dob)
 
 --displaying data
 SELECT * FROM homework1.employee;
-SELECT * FROM homework1.person;
+SELECT * FROM homework1.personalinfo;
+
+--Join
+SELECT * FROM homework1.employee he
+JOIN homework1.personalinfo hp ON he.id = hp.id;
