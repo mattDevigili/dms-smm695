@@ -4,7 +4,7 @@ Here you can find:
 
 - [Artists](https://github.com/mattDevigili/dms-smm695/blob/master/week-2/data/artists.json) data from Tate
 - [Artworks](https://github.com/mattDevigili/dms-smm695/blob/master/week-2/data/artworks.json) data from Tate
-- [CDs and Vinyl](http://deepyeti.ucsd.edu/jianmo/amazon/categoryFilesSmall/CDs_and_Vinyl_5.json.gz) data from Amazon
+- [CDs and Vinyl](https://jmcauley.ucsd.edu/data/amazon_v2/categoryFilesSmall/CDs_and_Vinyl_5.json.gz) data from Amazon
 
 Both
 [artists.json](https://github.com/mattDevigili/dms-smm695/blob/master/week-2/data/artists.json)

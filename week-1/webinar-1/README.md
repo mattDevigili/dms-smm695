@@ -2,7 +2,7 @@
 
 Webinar recording:
 
-![webinar-1](img/webinar1.png)
+[![webinar-1](img/webinar1.png)](https://moodle.city.ac.uk/mod/kalvidres/view.php?id=2604753)
 
 Here you can find the structure for the first webinar. In particular, we will
 discuss: (i) module organization and functioning; (ii) basics of the relational
