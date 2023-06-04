@@ -23,8 +23,8 @@ Here you can find the structure for the second webinar.
 
 Webinar materials:
 
-* [wn_2.sql](https://github.com/mattDevigili/dms-smm695/blob/master/week-2/webinar-2/wn_2.ipynb): solutions for the [hw_2.md](https://mattdevigili.github.io/dms-smm695/week-2/hw_2.html) via [Psycopg2](https://www.psycopg.org/docs/);
-* [ws_2.pdf](https://github.com/mattDevigili/dms-smm695/blob/master/week-2/webinar-2/ws_2.pdf): webinar slide.
+* [wn_2.ipynb](https://github.com/mattDevigili/dms-smm695/blob/master/week-2/webinar-2/wn_2.ipynb): solutions for the [hw_2.md](https://mattdevigili.github.io/dms-smm695/week-2/hw_2.html) via [Psycopg2](https://www.psycopg.org/docs/);
+* [ws_2.pdf](https://github.com/mattDevigili/dms-smm695/blob/master/week-2/webinar-2/ws_2.pdf): webinar slide;
 * [wsc_2.sql](https://github.com/mattDevigili/dms-smm695/blob/master/week-2/webinar-2/wsc_2.sql): interacting with Pagila.
 
 ## Loading Pagila
