@@ -2,7 +2,7 @@
 
 Webinar recording:
 
-![webinar-2](img/webinar2.png)
+[![webinar-2](img/webinar2.png)](https://moodle.city.ac.uk/mod/lti/view.php?id=2606204)
 
 Here you can find the structure for the second webinar.
 
