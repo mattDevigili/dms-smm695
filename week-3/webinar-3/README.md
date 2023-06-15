@@ -2,7 +2,7 @@
 
 Webinar recording:
 
-![webinar-3](img/webinar3.png)
+[![webinar-3](img/webinar3.png)](https://moodle.city.ac.uk/mod/lti/view.php?id=2608627)
 
 Here you can find the structure for the third webinar.
 
@@ -18,6 +18,14 @@ Here you can find the structure for the third webinar.
 |                 | --- FDs and Anomalies                                                                     |
 |                 | --- Decomposition                                                                         |
 |                 | --- Indexes and Views                                                                     |
+
+## Material
+
+Webinar materials:
+
+* [whm_3.sql](https://github.com/mattDevigili/dms-smm695/blob/master/week-3/webinar-3/whm_3.sql): solutions for the [hw_3.md](https://mattdevigili.github.io/dms-smm695/week-3/hw_3.html);
+* [ws_3.pdf](https://github.com/mattDevigili/dms-smm695/blob/master/week-3/webinar-3/ws_3.pdf): introduction to design theory slide;
+* [wsc_3.sql](https://github.com/mattDevigili/dms-smm695/blob/master/week-3/webinar-3/wsc_3.sql): webinar 3 sql script.
 
 ## Tate Data
 

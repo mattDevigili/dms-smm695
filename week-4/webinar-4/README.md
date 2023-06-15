@@ -23,5 +23,5 @@ Follow the [instructions](https://aws.amazon.com/getting-started/tutorials/creat
 
 Webinar materials:
 
-* [whm_4.json](https://github.com/mattDevigili/dms-smm695/blob/master/week-4/webinar-4/whm_4.json): solutions for the [hw_4.md](https://mattdevigili.github.io/dms-smm695/week-4/hw_4.html);
+* [whm_4.js](https://github.com/mattDevigili/dms-smm695/blob/master/week-4/webinar-4/whm_4.js): solutions for the [hw_4.md](https://mattdevigili.github.io/dms-smm695/week-4/hw_4.html);
 * [wsc_4.ipynb](https://github.com/mattDevigili/dms-smm695/blob/master/week-4/webinar-4/wsc_4.ipynb): webinar 4 notebook.
