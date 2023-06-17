@@ -73,31 +73,31 @@ brew services stop mongodb-community@6.0
 **1).** Visit the MongoDB Download centre. Select Community Edition, Windows x64, and 
 download the **MSI** file:
 
-![0](images/_0.png)
+![0](images/0.png)
 
 **2).** Once the download is completed, click on the downloaded file. The expected
    result is the following:
 
-![1](images/_1.png)
+![1](images/1.png)
 
 **3).** Click **Next**
 
 **4).** Then, accept _'terms in the Licence Agreement'_:
 
-![2](images/_2.png)
+![2](images/2.png)
 
 **5).** Choose the **complete** set-up type:
 
-![3](images/_3.png)
+![3](images/3.png)
 
 **6).** Leave **default** settings and click next:
 
-![4](images/_4.png)
+![4](images/4.png)
 
 **7).** Do not install MongoDB Compass here. So, **uncheck** the box `Install MongoDB
    Compass`:
 
-![5](images/_45.png)
+![5](images/45.png)
 
 **8).** Click **Next**
 
@@ -108,46 +108,45 @@ download the **MSI** file:
 **11).** Navigate to the following directory:
 
 ```bash
- C:\Program Files\MongoDB\Server\4.4\bin
+C:\Program Files\MongoDB\Server\6.0\bin
  ```
 
 **12).** Check that everything is fine. The expected outcome should be:
 
-![](images/_5.png" width = "80%">
-</div>
+![55](images/5.png)
 
 **13).** In the Windows search bar type `system environment variable`:
 
-![6](images/_6.png)
+![6](images/6.png)
 
 **14).** Select `Edit the system environment variable`
 
 **15).** Click `Environment Variables`:
 
-![7](images/_7.png)
+![7](images/7.png)
 
 **16).** Double click on `path`:
 
-![8](images/_8.png)
+![8](images/8.png)
 
 **17).** Now, you should see the following:
 
-![9](images/_9.png)
+![9](images/9.png)
 
 **18).** Go back to:
 
 ```bash
- C:\Program Files\MongoDB\Server\4.2\bin
+C:\Program Files\MongoDB\Server\6.0\bin
  ```
 
 **19).** Right-click on bin and copy the path:
 
-![10](images/_10.png" width = "80%">
+![10](images/10.png)
 </div>
 
 **20).** Now, within `environment variable`, click on `new` and paste the path:
 
-![11](images/_11.png)
+![11](images/11.png)
 
 **21).** Click **OK**
 
@@ -159,7 +158,7 @@ mongo --nodb
 
 **23).** This is the result expected:
 
-![12](images/_12.png)
+![12](images/12.png)
 
 **24).** To exit, type:
 
@@ -170,4 +169,4 @@ exit
 **25).** To install MongoDB Compass, please navigate to this [page](https://www.mongodb.com/try/download/compass) and 
     download the .msi:
 
-![13](images/_13.png)
+![13](images/13.png)
