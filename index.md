@@ -71,10 +71,11 @@ At the end of the module, students should be able to:
 In terms of assessment, students are required to deliver one group-level
 coursework project (so, _no final examination or individual assignments_).
 
-The **final course project** will be launched in week 5, and submissions will
-be evaluated on a rolling-based window and are due by July 21 (4:00 PM London
-Time). Students will be required to deal with real-world data from scratch, thus
-implementing what learned during this module.
+The [final course project](https://mattdevigili.github.io/dms-smm695/final-course-project/)
+will be launched in week 5, and submissions will be evaluated on a rolling-based
+window and are due by July 21 (4:00 PM London Time). Students will be required
+to deal with real-world data from scratch, thus implementing what learned during
+this module.
 
 The project will be evaluated along with the following criteria: i)
 appropriate use of notions and frameworks discussed in class; ii) effectiveness
@@ -163,11 +164,11 @@ easiest way to do that is to install [Anaconda](https://www.anaconda.com/product
 
 ## Jump to
 
-| Lectures                                              | Webinars                                                        | Utils                                                                              |
-| ----------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| [1](https://mattdevigili.github.io/dms-smm695/week-1) | [1](https://mattdevigili.github.io/dms-smm695/week-1/webinar-1) | [Python environment set-up](https://mattdevigili.github.io/dms-smm695/environment) |
-| [2](https://mattdevigili.github.io/dms-smm695/week-2) | [2](https://mattdevigili.github.io/dms-smm695/week-2/webinar-2) | [Tutorials](https://mattdevigili.github.io/dms-smm695/tutorials)                   |
-| [3](https://mattdevigili.github.io/dms-smm695/week-3) | [3](https://mattdevigili.github.io/dms-smm695/week-3/webinar-3) | [Past assignments](https://mattdevigili.github.io/dms-smm695/past-assignments)     |
-| [4](https://mattdevigili.github.io/dms-smm695/week-4) | [4](https://mattdevigili.github.io/dms-smm695/week-4/webinar-4) |                                                                                    |
-| [5](https://mattdevigili.github.io/dms-smm695/week-5) | [5](https://mattdevigili.github.io/dms-smm695/week-5/webinar-5) |                                                                                    |
-| [6](https://mattdevigili.github.io/dms-smm695/week-6) | [6](https://mattdevigili.github.io/dms-smm695/week-6/webinar-6) |                                                                                    |
+| Lectures                                              | Webinars                                                        | Utils                                                                                   |
+| ----------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [1](https://mattdevigili.github.io/dms-smm695/week-1) | [1](https://mattdevigili.github.io/dms-smm695/week-1/webinar-1) | [Python environment set-up](https://mattdevigili.github.io/dms-smm695/environment)      |
+| [2](https://mattdevigili.github.io/dms-smm695/week-2) | [2](https://mattdevigili.github.io/dms-smm695/week-2/webinar-2) | [Tutorials](https://mattdevigili.github.io/dms-smm695/tutorials)                        |
+| [3](https://mattdevigili.github.io/dms-smm695/week-3) | [3](https://mattdevigili.github.io/dms-smm695/week-3/webinar-3) | [Past assignments](https://mattdevigili.github.io/dms-smm695/past-assignments)          |
+| [4](https://mattdevigili.github.io/dms-smm695/week-4) | [4](https://mattdevigili.github.io/dms-smm695/week-4/webinar-4) | [Final-Course-Project](https://mattdevigili.github.io/dms-smm695/final-course-project/) |
+| [5](https://mattdevigili.github.io/dms-smm695/week-5) | [5](https://mattdevigili.github.io/dms-smm695/week-5/webinar-5) |                                                                                         |
+| [6](https://mattdevigili.github.io/dms-smm695/week-6) | [6](https://mattdevigili.github.io/dms-smm695/week-6/webinar-6) |                                                                                         |
