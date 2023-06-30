@@ -67,7 +67,7 @@ In particular, you can find:
 | -------------------- | ----------- | ----------------------- | ------ | ------- |
 | archive-mozilla-bugs | bug history | 1997-03-19 - 2003-08-05 | 2.9 GB | 215,173 |
 
-Data are stored in `pickle` format.
+Data are stored in `pickle` format. Please, check [load_data.py](https://github.com/mattDevigili/dms-smm695/blob/master/final-course-project/load_data.py) for an example of loading pickle files.
 
 To get a sense of the data structure, I suggest you explore the available data
 either in MongoDB or Python. Also, check the Bugzilla@Mozilla
