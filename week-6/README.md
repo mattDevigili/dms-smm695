@@ -23,3 +23,4 @@ To connect PostgreSQL & PySpark, you have to download `PostgreSQL JDBC 4.4 Drive
 Other material available:
 
 * [sc_6.ipynb](https://github.com/mattDevigili/dms-smm695/blob/master/week-6/sc_6.ipynb): lecture notebook
+* [webinar-6](https://mattdevigili.github.io/dms-smm695/week-6/webinar-6/): webinar 6 materials

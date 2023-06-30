@@ -1,8 +1,20 @@
-# Webinar 6
+# Webinar 6 --- Structure
 
-<p align="center">
-  <img src="0.jpg">
-</p>
+Webinar recording:
 
+![webinar-6](img/webinar6.png)
 
-by [_Larry Wentzel_](https://www.flickr.com/photos/wentzelepsy/8590692912)
+Here you can find the structure for the sixth webinar.
+
+| **Week (date)** | **Agenda**                                           |
+|-----------------|------------------------------------------------------|
+| 6 (28-06)       | Final-course project                                 |
+|                 | DBMS: Read and Write                                 |
+|                 |   --- MongoDB                                        |
+|                 |   --- PostgreSQL                                     |
+|                 | Preprocessing and Regression                         |
+|                 |   --- Logistic Regression                            |
+|                 |   --- Linear Regression                              |
+|                 | Further examples                                     |
+|                 |   --- Pipeline                                       |
+|                 |   --- Word2Vec                                       |
