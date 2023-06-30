@@ -2,7 +2,7 @@
 
 Webinar recording:
 
-![webinar-6](img/webinar6.png)
+![webinar-6](images/webinar6.png)
 
 Here you can find the structure for the sixth webinar.
 
