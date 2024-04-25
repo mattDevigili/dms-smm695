@@ -13,7 +13,7 @@ software](https://en.wikipedia.org/wiki/Open-source_software) (OSS) development.
 
 <p align="middle">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="250" />
-  <img src="https://www.gstatic.com/devrel-devsite/prod/v1a2d2d725c48303ffd65eb7122e57032dbf9bb148227658cacdfddf0dcae1e46/tensorflow/images/lockup.svg" width="250" /> 
+  <img src="https://www.gstatic.com/devrel-devsite/prod/v2a398f8757b82183cb182aec0e7c4771ac1123a40d36fc97c8783f6df9b3c672/tensorflow/images/lockup.svg" width="250" /> 
 </p>
 
 OSS challenges common managerial assumptions on the organizing and functioning
