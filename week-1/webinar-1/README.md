@@ -31,7 +31,7 @@ Webinar materials:
 
 * [whs_1.sql](https://github.com/mattDevigili/dms-smm695/blob/master/week-1/webinar-1/whs_1.sql): solutions for the [hw_1.md](https://mattdevigili.github.io/dms-smm695/week-1/hw_1.html);
 * [artwors.csv](https://github.com/mattDevigili/dms-smm695/blob/master/week-1/webinar-1/artworks.csv): a small and simplified version of the [artworks_data.csv](https://github.com/tategallery/collection/blob/master/artwork_data.csv);
-* [erd.png](https://github.com/mattDevigili/dms-smm695/blob/master/week-1/webinar-1/erd.png): an entity relation diagram obtained with [PgAdmin 4](https://www.pgadmin.org/docs/pgadmin4/6.9/erd_tool.html);
+* [erd.png](https://github.com/mattDevigili/dms-smm695/blob/master/week-1/webinar-1/erd.png): an entity relation diagram obtained with [PgAdmin 4](https://www.pgadmin.org/docs/pgadmin4/8.6/erd_tool.html);
 * [wsc_1.sql](https://github.com/mattDevigili/dms-smm695/blob/master/week-1/webinar-1/wsc_1.sql): a possible schema for the artworks case built with SQL.
 
 ### Pagila
