@@ -2,7 +2,7 @@
 
 Webinar recording:
 
-[![webinar-1](img/webinar1.png)](https://moodle.city.ac.uk/mod/kalvidres/view.php?id=2604753)
+![webinar-1](img/webinar1.png)
 
 Here you can find the structure for the first webinar. In particular, we will
 discuss: (i) module organization and functioning; (ii) basics of the relational
@@ -10,7 +10,7 @@ model; (iii) SQL create, delete, and insert.
 
 | **Week (date)** | **Agenda**                                       |
 |-----------------|--------------------------------------------------|
-| 1 (26-05)       | Introduction to SMM695                           |
+| 1 (24-05)       | Introduction to SMM695                           |
 |                 | [PostgreSQL vs MongoDB](https://www.mongodb.com/compare/mongodb-postgresql) |
 |                 | Relational model                                 |
 |                 | _Q&A_                                            |
