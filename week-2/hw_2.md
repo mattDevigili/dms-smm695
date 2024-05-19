@@ -1,6 +1,6 @@
 # Week 2 -- Homework
 
-_This homework is not mandatory, and not marked. You can use it to test your 
+_This homework is not mandatory, and not marked. You can use it to test your
 understanding of the lecture_
 
 **1).** Create a schema named homework 2

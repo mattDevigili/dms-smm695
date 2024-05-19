@@ -12,7 +12,7 @@ The video is structured into 6 components:
 
 | Week (dd-mm) | Topics              | Min   |
 | ------------ | ------------------- | ----- |
-| 2 (02-06)    | Constraints:        | 0:00  |
+| 2 (31-05)    | Constraints:        | 0:00  |
 |              | -- Not Null         |       |
 |              | -- Unique           |       |
 |              | -- Primary Key      |       |
