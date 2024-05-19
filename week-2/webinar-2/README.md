@@ -2,13 +2,13 @@
 
 Webinar recording:
 
-[![webinar-2](img/webinar2.png)](https://moodle.city.ac.uk/mod/lti/view.php?id=2606204)
+![webinar-2](img/webinar2.png)
 
 Here you can find the structure for the second webinar.
 
 | **Week (date)** | **Agenda**                                       |
 |-----------------|--------------------------------------------------|
-| 2 (02-06)       | Recap and Q&A                                    |
+| 2 (31-05)       | Recap and Q&A                                    |
 |                 | Introduction to Design Theory (part one)         |
 |                 | - In-class exercise                              |
 |                 | [Pagila](https://github.com/devrimgunduz/pagila) |
@@ -74,11 +74,15 @@ The [requirements.txt](https://github.com/mattDevigili/dms-smm695/blob/master/en
 If you are a Pure-Python user do:
 
 ```{python}
+source my_env/bin/activate
+
 pip install -r requirements.txt
 ```
 
 If you are a Conda user do:
 
 ```{python}
+conda activate my_env
+
 conda install --file requirements.txt
 ```
