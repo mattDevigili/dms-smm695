@@ -26,13 +26,13 @@ This is a list of python libraries you need to install:
 
 | Week      | Library        |
 | --------- | -------------- |
-| 2 (02-06) | psycopg2       |
+| 2 (31-05) | psycopg2       |
 |           | sqlalchemy     |
 |           | pandas         |
-| 4 (16-06) | pymongo        |
+| 4 (13-06) | pymongo        |
 |           | requests       |
 |           | beautifulsoup4 |
-| 6 (30-06) | pyspark        |
+| 6 (28-06) | pyspark        |
 |           |                |
 
 ### Install libraries
