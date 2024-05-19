@@ -12,7 +12,7 @@ The video is structured into 11 components:
 
 | Week (dd-mm) | Topics                             | Min   |
 | ------------ | ---------------------------------- | ----- |
-| 1 (26-05)    | Introduction to RDMS               | 0:00  |
+| 1 (24-05)    | Introduction to RDMS               | 0:00  |
 |              | Installation                       | 6:25  |
 |              | psql                               | 14:34 |
 |              | PgAdmin 4                          | 18:00 |

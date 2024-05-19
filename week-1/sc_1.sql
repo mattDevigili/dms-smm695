@@ -81,7 +81,7 @@ date date,
 tmstp_tz timestamp with time zone,
 tmstp_ntz timestamp);
 
--- Let's see what does it happen inserting 
+-- Let's see what happens when inserting
 -- different values in our column for which
 -- data type specified is small integers
 
@@ -92,7 +92,7 @@ VALUES (100);
 -- INSERT INTO data_types.small_int (sm_int)
 -- VALUES (1000000);
 
--- Let's see what does it happen inserting 
+-- Let's see what happens when inserting
 -- different values in our column for which
 -- data type specified is real
 
@@ -104,7 +104,7 @@ VALUES (0.20202029892);
 
 SELECT * FROM data_types.real; -- to see what data have been stored
 
--- Let's see what does it happen inserting 
+-- Let's see what happens when inserting
 -- different values in our column for which
 -- data type specified is money
 
@@ -117,7 +117,7 @@ VALUES ('1000.00');
 INSERT INTO data_types.money (money_d)
 VALUES ('1000.00$');
 
--- Let's see what does it happen inserting 
+-- Let's see what happens when inserting
 -- different values in our columns for which
 -- data type specified is character varaying
 -- and character 
@@ -139,7 +139,7 @@ VALUES ('Matt', 'No');
 INSERT INTO data_types.textual  (var_char, fx_char)
 VALUES ('Matt', 'Y');
 
--- Let's see what does it happen inserting 
+-- Let's see what happens when inserting
 -- different values in our columns for which
 -- data type specified is time with time zone,
 -- date, timestamp with time zone, and timestamp
