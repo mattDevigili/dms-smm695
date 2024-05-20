@@ -2,7 +2,7 @@
 
 Webinar recording:
 
-[![webinar-3](img/webinar3.png)](https://moodle.city.ac.uk/mod/lti/view.php?id=2608627)
+![webinar-3](img/webinar3.png)
 
 Here you can find the structure for the third webinar.
 
