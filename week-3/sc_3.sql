@@ -78,7 +78,7 @@ VALUES (1),
 		(3);
 -- cross join tables:
 SELECT num, let FROM people.numbers
-CROSS JOIN people.letters
+CROSS JOIN people.letters;
 
 -- 4. EXPORT 
 

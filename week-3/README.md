@@ -12,7 +12,7 @@ The video is structured into 5 components:
 
 | Week (dd-mm) | Topics                     | Min   |
 | ------------ | -------------------------- | ----- |
-| 3 (09-06)    | Set-up                     | 0:00  |
+| 3 (07-06)    | Set-up                     | 0:00  |
 |              | -- ALTER                   |       |
 |              | -- DELETE                  |       |
 |              | -- UPDATE                  |       |
