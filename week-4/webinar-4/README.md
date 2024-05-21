@@ -2,13 +2,13 @@
 
 Webinar recording:
 
-[![webinar-4](img/webinar4.png)](https://echo360.org.uk/lesson/78222eee-d7a8-4c52-a679-78852e91e676/classroom#sortDirection=desc)
+![webinar-4](img/webinar4.png)
 
 Here you can find the structure for the fourth webinar.
 
 | **Week (date)** | **Agenda**                                           |
 |-----------------|------------------------------------------------------|
-| 4 (16-06)       | [AWS RDS](https://aws.amazon.com/rds/)               |
+| 4 (13-06)       | [AWS RDS](https://aws.amazon.com/rds/)               |
 |                 | _Q&A_                                                |
 |                 | Mongo Shell, Compass, Atlas                          |
 |                 | Homework 4 solutions                                 |

@@ -12,7 +12,7 @@ The video is structured into 10 components:
 
 | Week (dd-mm) | Topics                       | Min   |
 | ------------ | ---------------------------- | ----- |
-| 4 (16-06)    | Introduction to Json         | 0:00  |
+| 4 (13-06)    | Introduction to Json         | 0:00  |
 |              | Introduction to MongoDB      | 04:56 |
 |              | Installation MongoDB         | 14:05 |
 |              | Set-up MongoDB Atlas         | 16:04 |

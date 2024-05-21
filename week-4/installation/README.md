@@ -39,7 +39,7 @@ brew tap mongodb/brew
 **4).** Now you can install the MongoDB Community Edition:
 
 ```bash
-brew install mongodb-community@6.0
+brew install mongodb-community@7.0
 ```
 
 ### Run MongoDB
@@ -47,7 +47,7 @@ brew install mongodb-community@6.0
 **5).** To run MongoDB as a MacOS service, type on your terminal:
 
 ```bash
-brew services start mongodb-community@6.0
+brew services start mongodb-community@7.0
 ```
 
 **6).** Then, you can start the mongo shell typing:
@@ -65,12 +65,12 @@ exit
 **8).** To stop running MongoDB:
 
 ```bash
-brew services stop mongodb-community@6.0
+brew services stop mongodb-community@7.0
 ```
 
 ## Windows
 
-**1).** Visit the MongoDB Download centre. Select Community Edition, Windows x64, and 
+**1).** Visit the MongoDB Download centre. Select Community Edition, Windows x64, and
 download the **MSI** file:
 
 ![0](images/0.png)
