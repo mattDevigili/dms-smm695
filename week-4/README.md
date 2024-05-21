@@ -28,5 +28,5 @@ Other material available:
 1. [installation](https://mattdevigili.github.io/dms-smm695/week-4/installation/): MacOS and Windows
 1. [hw_4.md](https://mattdevigili.github.io/dms-smm695/week-4/hw_4.html): homework
 1. [ls_4.pdf](https://github.com/mattDevigili/dms-smm695/blob/master/week-4/ls_4.pdf): lecture slides
-1. [sc_4.sql](https://github.com/mattDevigili/dms-smm695/blob/master/week-4/sc_4.js): lecture js script
+1. [sc_4.js](https://github.com/mattDevigili/dms-smm695/blob/master/week-4/sc_4.js): lecture js script
 1. [webinar-4](https://mattdevigili.github.io/dms-smm695/week-4/webinar-4/): webinar 4 materials
