@@ -6,7 +6,7 @@ Lecture recording:
 
 In this video, you will: (i) learn some basics of JSON, (ii) have a first
 introduction to MongoDB through the Mongo Shell and MongoDB Compass, (iii)
-explore CRUD (create, read, update, and delete) operations. I
+explore CRUD (create, read, update, and delete) operations.
 
 The video is structured into 10 components:
 
