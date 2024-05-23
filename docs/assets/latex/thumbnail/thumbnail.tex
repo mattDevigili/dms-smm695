@@ -1,0 +1,93 @@
+%-----------------------------------------------------------------------------
+%    OPENING
+%-----------------------------------------------------------------------------
+
+\documentclass[xcolor=dvipsnames]{beamer}
+
+
+\addtobeamertemplate{navigation symbols}{}{%
+    \usebeamerfont{footline}%
+    \usebeamercolor[fg]{footline}%
+    \hspace{1em}%
+    \insertframenumber/\inserttotalframenumber
+}
+
+%-----------------------------------------------------------------------------
+%    AESTHETICS
+%-----------------------------------------------------------------------------
+
+% declare custom colors
+% ---------------------
+\usepackage[dvipsnames]{xcolor}
+\definecolor{myOrange}{rgb}{1, 0.36, 0}
+\definecolor{cadmiumgreen}{rgb}{0.0, 0.42, 0.24}
+
+% override palette coloring with secondary
+% ----------------------------------------
+\setbeamercolor{frametitle}{fg=Black,bg=Black!0}
+\setbeamercolor{palette primary}{bg=Black,fg=white}
+\setbeamercolor{palette secondary}{bg=Black,fg=white}
+\setbeamercolor{palette tertiary}{bg=Black,fg=white}
+\setbeamercolor{palette quaternary}{bg=Black,fg=white}
+\setbeamercolor{structure}{fg=myOrange} % itemize, enumerate, etc
+\setbeamercolor{section in toc}{fg=Black} % TOC sections
+\setbeamercolor{subsection in head/foot}{bg=Black,fg=white}
+\setbeamercolor{frametitle}{bg=white, fg=myOrange}
+
+% exhibits numbers
+% ----------------
+%\setbeamertemplate{caption}[numbered]
+
+
+%-----------------------------------------------------------------------------
+%   PACKAGES
+%-----------------------------------------------------------------------------
+
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{booktabs}
+\usepackage{xcolor}
+\usepackage{threeparttable}
+\usepackage{tcolorbox}
+
+%-----------------------------------------------------------------------------
+%   BEAMER INFO
+%-----------------------------------------------------------------------------
+
+% Title
+% -----
+%\title{Data Management Systems \\ PostgreSQL}
+%\title{Data Management Systems \\ PostgreSQL -- Webinar X}
+%\title{Data Management Systems \\ Introduction to Design Theory}
+%\title{Data Management Systems \\ MongoDB}
+%\title{Data Management Systems \\ MongoDB -- Webinar 5}
+\title{Data Management Systems \\ PySpark}
+
+% Authors 
+% -------
+% Authors 
+% -------
+\author{Matteo Devigili}
+\institute[A]{Bayes Business School}
+
+%% Date
+\date{28-06-2024}
+
+
+%-----------------------------------------------------------------------------
+%   BEAMER CORPUS
+%-----------------------------------------------------------------------------
+
+\begin{document}
+
+% Cover page
+% ----------
+\begin{frame}[c]
+    \titlepage % Print the title page as the first slide
+\end{frame}
+
+%-----------------------------------------------------------------------------
+%    BEAMER CORPUS ENDS HERE
+%-----------------------------------------------------------------------------
+
+\end{document}
