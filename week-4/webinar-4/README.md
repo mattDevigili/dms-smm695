@@ -19,6 +19,8 @@ Here you can find the structure for the fourth webinar.
 Follow the [instructions](https://aws.amazon.com/getting-started/tutorials/create-connect-postgresql-db/) to 'create and connect to a PostgreSQL' database instance using
 [Amazon Relational Database Service](https://aws.amazon.com/rds/).
 
+**Please review the pre-recorded material before attending this webinar.**
+
 ## Material
 
 Webinar materials:

@@ -19,6 +19,8 @@ Here you can find the structure for the third webinar.
 |                 | --- Decomposition                                                                         |
 |                 | --- Indexes and Views                                                                     |
 
+**Please review the pre-recorded material before attending this webinar.**
+
 ## Material
 
 Webinar materials:
@@ -41,4 +43,4 @@ You can obtain data via `wget`, type on your terminal:
 wget "https://raw.githubusercontent.com/tategallery/collection/master/artwork_data.csv"
 ```
 
-_n.b._: wget need to be installed on your laptop.
+_n.b._: wget needs to be installed on your laptop.

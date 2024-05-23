@@ -22,6 +22,8 @@ Here you can find the structure for the fifth webinar.
 |                 | - Date functions                                     |
 |                 | - $sample                                            |
 
+**Please review the pre-recorded material before attending this webinar.**
+
 ## Material
 
 Webinar materials:

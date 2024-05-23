@@ -19,6 +19,8 @@ Here you can find the structure for the second webinar.
 |                 | - Basic usage                                    |
 |                 | - Homework solutions                             |
 
+**Please review the pre-recorded material before attending this webinar.**
+
 ## Material
 
 Webinar materials:

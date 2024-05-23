@@ -18,3 +18,5 @@ Here you can find the structure for the sixth webinar.
 |                 | Further examples                                     |
 |                 |   --- Pipeline                                       |
 |                 |   --- Word2Vec                                       |
+
+**Please review the pre-recorded material before attending this webinar.**
