@@ -12,7 +12,7 @@ The video is structured into 5 components:
 
 | Week (dd-mm) | Topics                                      | Min   |
 | ------------ | ------------------------------------------- | ----- |
-| 5 (23-06)    | Load data                                   | 0:00  |
+| 5 (21-06)    | Load data                                   | 0:00  |
 |              | Schema                                      | 7:13  |
 |              | Query and Projection Operators              | 11:05 |
 |              | Introduction to the _Aggregation Framework_ | 39:55 |

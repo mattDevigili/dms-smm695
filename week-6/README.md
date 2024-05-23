@@ -12,7 +12,7 @@ This lecture focuses on the 6 topics:
 
 | Week (dd-mm) | Topics                               | Min   |
 | ------------ | ------------------------------------ | ----- |
-| 30 (28-06)   | Introduction to PySpark              | 0:00  |
+| 6 (28-06)    | Introduction to PySpark              | 0:00  |
 |              | PySpark Basics                       | 7:09  |
 |              | PySpark and Pandas                   | 17:20 |
 |              | PySpark and SQL                      | 25:35 |
