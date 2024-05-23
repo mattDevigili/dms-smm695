@@ -40,9 +40,9 @@ on [PySpark](https://spark.apache.org/docs/latest/api/python/index.html#).
 For this course, you do not have to buy any books, but you need to go through
 the following:
 
-* Lecture recordings (to be uploaded onto MS Streams weekly);
-* Lecture slides (to be uploaded onto Github weekly);
-* SQL/JS/Python scripts (to be uploaded onto Github weekly).
+* Lecture recordings (available via MS Streams);
+* Lecture slides (available via Github);
+* SQL/JS/Python scripts (available via Github).
 
 Furthermore, I will provide you with some _not mandatory and not rated homework_
 to test your understanding of the lecture.
