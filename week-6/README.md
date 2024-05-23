@@ -18,7 +18,7 @@ This lecture focuses on the 6 topics:
 |              | PySpark and SQL                      | 25:35 |
 |              | Connection to PostgreSQL and MongoDB | 30:35 |
 
-To connect PostgreSQL & PySpark, you have to download `PostgreSQL JDBC 4.4 Driver, 42.6.0` at this [link](https://jdbc.postgresql.org/download/).
+To connect PostgreSQL & PySpark, you have to download `PostgreSQL JDBC Driver, 42.7.3` at this [link](https://jdbc.postgresql.org/download/).
 
 Other material available:
 
