@@ -2,7 +2,7 @@
 
 Webinar recording:
 
-![webinar-1](img/webinar1.png)
+[![webinar-1](img/webinar1.png)](https://echo360.org.uk/lesson/73fc0746-af85-4d7b-ba7e-5b742caeca32/classroom#sortDirection=desc)
 
 Here you can find the structure for the first webinar. In particular, we will
 discuss: (i) module organization and functioning; (ii) basics of the relational
