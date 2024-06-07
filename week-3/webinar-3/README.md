@@ -11,13 +11,13 @@ Here you can find the structure for the third webinar.
 | 3 (09-06)       | Recap -- week 3                                                                           |
 |                 | Introduction to Design Theory (part two)                                                  |
 |                 | _Q&A_                                                                                     |
-|                 | [Psycopg2](https://www.psycopg.org/docs/)                                                 |
-|                 | - Basic usage                                                                             |
-|                 | - Homework solutions                                                                      |
 |                 | [Artworks - Tate](https://github.com/tategallery/collection/blob/master/artwork_data.csv) |
 |                 | --- FDs and Anomalies                                                                     |
 |                 | --- Decomposition                                                                         |
 |                 | --- Indexes and Views                                                                     |
+|                 | [Psycopg2](https://www.psycopg.org/docs/)                                                 |
+|                 | - Basic usage                                                                             |
+|                 | - Homework solutions                                                                      |
 
 **Please review the pre-recorded material before attending this webinar.**
 
