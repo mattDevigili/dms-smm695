@@ -6,8 +6,6 @@
 
 SELECT * FROM address;
 
-SELECT * FROM address WHERE district IN ('California', 'Texas');
-
 SELECT district, COUNT(*) AS count_d FROM address 
 GROUP BY district ORDER BY count_d DESC;
 
