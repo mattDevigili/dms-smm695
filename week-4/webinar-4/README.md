@@ -2,7 +2,7 @@
 
 Webinar recording:
 
-![webinar-4](img/webinar4.png)
+[![webinar-4](img/webinar4.png)](https://echo360.org.uk/lesson/a8d5e916-6e53-4875-9771-4c02eb9735b2/classroom#sortDirection=desc)
 
 Here you can find the structure for the fourth webinar.
 
