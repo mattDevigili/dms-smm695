@@ -40,7 +40,7 @@ work environments based on remote collaboration.
 > and research insights.
 
 <p align="middle">
-  <img src="https://icodrops.com/wp-content/uploads/2021/11/Snapshot_logo.jpeg" width="100" />
+  <img src="https://github.com/mattDevigili/dms-smm695/tree/master/final-course-project/img/snap.png" width="100" />
 </p>
 
 The first chunk of data comes from [Snapshot](https://docs.snapshot.org/introduction). Snapshot is a decentralized voting
@@ -60,8 +60,8 @@ votes are transparent and easily verifiable. This platform is widely adopted
 within the Web3 community.
 
 <p align="middle">
-  <img src="https://polygonscan.com/assets/poly/images/og.jpg?v=24.5.4.1" width="100" />
-  <img src="https://etherscan.io/assets/svg/logos/logo-etherscan.svg?v=0.0.5" width="100" />
+  <img src="https://github.com/mattDevigili/dms-smm695/tree/master/final-course-project/polygon.png" width="100" />
+  <img src="https://github.com/mattDevigili/dms-smm695/tree/master/final-course-project/ether.png" width="100" />
 </p>
 
 The second chunk of data contains address-level information collected from
